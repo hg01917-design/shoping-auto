@@ -28,69 +28,60 @@ DEFAULT_URL = "https://smartstore.naver.com/luty/products/9983116482"
 # ──────────────────────────────────────────────
 JS_EXTRACT = r"""
 () => {
-    // ── 헬퍼 ───────────────────────────────────────────────────────────
-    function firstText(sels) {
-        for (const s of sels) {
-            try {
-                const el = document.querySelector(s);
-                if (el) { const t = (el.innerText || '').trim(); if (t) return t; }
-            } catch(e) {}
+    // ── JSON-LD (가장 신뢰할 수 있는 구조화 데이터) ───────────────────────
+    let ldName = '', ldPrice = 0, ldCurrency = 'KRW', ldCategory = '';
+    try {
+        const ldEl = document.querySelector('script[type="application/ld+json"]');
+        if (ldEl) {
+            const ld = JSON.parse(ldEl.textContent);
+            // " : 스토어명" 접미사 제거
+            ldName = (ld.name || '').replace(/\s*:\s*[^:]+$/, '').trim();
+            ldPrice = (ld.offers && ld.offers.price) ? ld.offers.price : 0;
+            ldCurrency = (ld.offers && ld.offers.priceCurrency) || 'KRW';
+            ldCategory = ld.category || '';
         }
-        return '';
-    }
+    } catch(e) {}
 
-    // ── 상품명 ──────────────────────────────────────────────────────────
-    const productName = firstText([
-        'h3._22kNQuEXmb', 'h3.product_title', '.product_title',
-        '[class*=productName]', '[class*=product-name]',
-        'h3[class*=title]', 'h2[class*=title]', 'h3'
-    ]);
-
-    // ── 가격: 텍스트가 "숫자,숫자원" 패턴인 leaf 요소 중 첫 번째 ─────────
-    const priceEl = [...document.querySelectorAll('*')]
-        .find(el => {
-            if (el.children.length > 0) return false;
-            const t = (el.innerText || '').trim();
-            return /^[0-9,]+원$/.test(t);
-        });
-    const price = priceEl ? priceEl.innerText.trim() : '';
-
-    // ── 판매자(스토어명) ────────────────────────────────────────────────
-    // href가 스토어 경로인 링크에서 스토어명 추출
-    function getStoreName() {
-        // 방법 1: 스토어 경로 링크에서 텍스트
-        const storeLinks = document.querySelectorAll('a[href*="/luty"], a[href*="smartstore.naver.com/"]');
-        for (const a of storeLinks) {
-            const t = (a.innerText || '').trim();
-            if (t && t.length < 30 && !t.includes('\n')) return t;
+    // ── 할인율 (원래가격 → 할인가) ─────────────────────────────────────
+    let originalPrice = 0;
+    try {
+        const ogPriceEl = document.querySelector('.e1DMQNBPJ_');
+        if (ogPriceEl) {
+            originalPrice = parseInt((ogPriceEl.innerText || '').replace(/[^0-9]/g, ''), 10) || 0;
         }
-        // 방법 2: 클래스명 기반
-        const byClass = firstText([
-            '.store_link', '.store_name', '[class*=storeName]',
-            '[class*=StoreInfo] a', '[class*=seller_name]', '[class*=sellerName]',
-        ]);
-        if (byClass) return byClass;
-        return '';
-    }
-    const sellerName = getStoreName();
+    } catch(e) {}
 
-    // ── 리뷰수 ──────────────────────────────────────────────────────────
-    const reviewCount = firstText([
-        '[class*=reviewCount]', '[class*=review_count]',
-        '[class*=ReviewCount]',
-    ]);
+    // ── 판매자: og:description에서 "[스토어명]" 패턴 추출 ────────────────
+    let sellerName = '';
+    try {
+        const ogDesc = document.querySelector('meta[property="og:description"]');
+        if (ogDesc) {
+            const m = (ogDesc.getAttribute('content') || '').match(/^\[([^\]]+)\]/);
+            if (m) sellerName = m[1];
+        }
+    } catch(e) {}
 
-    // ── 상세 컨테이너 (#INTRODUCE) ──────────────────────────────────────
+    // ── 리뷰수 ───────────────────────────────────────────────────────────
+    let reviewCount = '';
+    try {
+        const reviewState = (window.__PRELOADED_STATE__ || {}).productReviewSummary;
+        if (reviewState && reviewState.A) {
+            const total = reviewState.A.totalCount || reviewState.A.reviewCount;
+            if (total !== undefined) reviewCount = String(total);
+        }
+    } catch(e) {}
+
+    // ── 상세 컨테이너 (#INTRODUCE) ───────────────────────────────────────
     const detailEl = document.querySelector('#INTRODUCE')
         || document.querySelector('[class*=Introduce]')
         || document.querySelector('[class*=introduce]');
 
-    // ── 상세 이미지: data-src 우선, 없으면 src ──────────────────────────
-    //    썸네일(f40, f80, m120 등) 제외 — type=w860, w640, m1000 등만 허용
+    // ── 상세 이미지: data-src 우선 (SE2 lazy-load) ───────────────────────
+    //    썸네일(type=f*, m*숫자) 제외
     const THUMB_RE = /[?&]type=(f|m)[0-9]+/;
 
     function extractImgUrls(root) {
-        return Array.from((root || document).querySelectorAll('img'))
+        return [...(root || document).querySelectorAll('img')]
             .map(img => img.dataset.src || img.src || '')
             .filter(src =>
                 src.startsWith('http') &&
@@ -100,26 +91,26 @@ JS_EXTRACT = r"""
     }
 
     const detailImages = detailEl ? extractImgUrls(detailEl) : [];
-
-    // 상세 이미지가 없으면 전체에서 shop-phinf CDN + 대형 이미지만
     const CDN_RE = /shop-phinf\.pstatic\.net/;
     const fallbackImages = detailImages.length
         ? detailImages
         : extractImgUrls(null).filter(s => CDN_RE.test(s));
 
-    // 중복 제거
     const uniqueImages = [...new Set(fallbackImages)];
 
-    // ── 상세 텍스트 ─────────────────────────────────────────────────────
+    // ── 상세 텍스트 ──────────────────────────────────────────────────────
     const detailText = detailEl ? detailEl.innerText.trim() : '';
 
     return {
-        product_name: productName,
-        price:        price,
-        seller_name:  sellerName,
-        review_count: reviewCount,
-        detail_text:  detailText,
-        detail_images: uniqueImages,
+        product_name:   ldName,
+        price:          ldPrice,
+        price_currency: ldCurrency,
+        original_price: originalPrice,
+        seller_name:    sellerName,
+        category:       ldCategory,
+        review_count:   reviewCount,
+        detail_text:    detailText,
+        detail_images:  uniqueImages,
         detail_container_found: !!detailEl,
     };
 }
@@ -230,7 +221,10 @@ def crawl(url: str) -> dict:
         "texts": {
             "product_name":   data["product_name"],
             "price":          data["price"],
+            "price_currency": data["price_currency"],
+            "original_price": data["original_price"],
             "seller_name":    data["seller_name"],
+            "category":       data["category"],
             "review_count":   data["review_count"],
             "detail_text":    data["detail_text"],
         },
@@ -261,8 +255,9 @@ def main():
 
     print("\n=== 결과 요약 ===")
     print(f"상품명  : {safe(result['texts']['product_name'])}")
-    print(f"가격    : {safe(result['texts']['price'])}")
+    print(f"가격    : {result['texts']['price']}원 (정가 {result['texts']['original_price']}원)")
     print(f"판매자  : {safe(result['texts']['seller_name'])}")
+    print(f"카테고리: {safe(result['texts']['category'])}")
     print(f"이미지  : {result['detail_image_count']}개")
     print(f"저장    : {filepath}")
 
