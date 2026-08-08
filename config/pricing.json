@@ -1,0 +1,10 @@
+{
+  "_comment": "가격 계산 파라미터. 수수료율은 VAT 별도 기준이며 vat_multiplier로 부가세를 반영합니다. 등급/유입경로에 따라 값이 다르면 여기서 조정하세요.",
+  "sales_linkage_fee_rate": 0.0273,
+  "payment_fee_rate": 0.0363,
+  "vat_multiplier": 1.1,
+  "shipping_cost": 1800,
+  "box_cost": 300,
+  "target_margin_rate": 0.10,
+  "price_rounding_unit": 100
+}

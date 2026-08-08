@@ -1,0 +1,15 @@
+{
+  "_comment": "상품 등록 시 모든 상품에 공통 적용되는 스토어 기본값. 본인 스토어 정보로 수정하세요.",
+  "after_service_telephone": "010-0000-0000",
+  "after_service_guide": "구매 후 문의는 스토어 톡톡 또는 A/S 전화번호로 연락 주시면 신속히 안내드리겠습니다.",
+  "origin_area_code": "0200037",
+  "origin_area_comment": "0200037=미국 등 수입산 코드. 상품 원산지에 맞게 수정 (커머스API 원산지 코드 조회 참고)",
+  "importer_name": "코스트코코리아",
+  "return_delivery_fee": 3000,
+  "exchange_delivery_fee": 6000,
+  "delivery_company": "CJGLS",
+  "delivery_fee_type": "FREE",
+  "base_delivery_fee": 0,
+  "minor_purchasable": true,
+  "tax_type": "SALE"
+}
