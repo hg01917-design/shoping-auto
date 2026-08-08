@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "가계부",
+    "slug": "money-log-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#2563EB"
+    },
+    "android": {
+      "package": "com.moneylogapp",
+      "permissions": [
+        "android.permission.READ_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2563EB"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.moneylogapp",
+      "supportsTablet": false
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-notifications"
+    ]
+  }
+}
