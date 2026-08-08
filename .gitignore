@@ -3,6 +3,9 @@ __pycache__/
 *.pyo
 .env
 output/
+config/credentials.json
+config/.token_cache.json
+products/*/output/
 .venv/
 venv/
 *.egg-info/
