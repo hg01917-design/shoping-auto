@@ -1,0 +1,30 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:10:43.836386",
+  "productNo": 13711457713,
+  "originProductNo": 13651124949,
+  "salePrice": 40300,
+  "registered_at": "2026-08-09T06:37:57.023107",
+  "images_refreshed_at": "2026-08-09T12:55:46.643402",
+  "detail_updated_at": "2026-09-16T13:10:43.836364",
+  "detail_image_count": 4,
+  "title_updated_at": "2026-09-08T10:19:22.593534",
+  "title_updated_from": "중형 니트릴장갑 커클랜드 시그니처 400매",
+  "title_updated_to": "청소용장갑 니트릴 중형 400매 커클랜드",
+  "images_reprocessed_at": "2026-09-16T13:05:20.649508",
+  "search_fields_updated_at": "2026-08-09T15:44:38.686958",
+  "seller_tag_count": 1,
+  "category_attribute_count": 0,
+  "customerDeliveryFee": 3500,
+  "seller_tags_updated_at": "2026-09-08T10:20:48.171719",
+  "sellerTags": [
+    "청소용장갑",
+    "다용도장갑",
+    "중형장갑",
+    "400매장갑"
+  ],
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:07.670207+00:00"
+}

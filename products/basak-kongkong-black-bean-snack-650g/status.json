@@ -1,0 +1,18 @@
+{
+  "status": "registered",
+  "productNo": 13739176273,
+  "originProductNo": 13678569163,
+  "salePrice": 20900,
+  "registered_at": "2026-08-31T02:19:32.945107",
+  "updated_at": "2026-09-16T13:08:55.842825",
+  "search_fields_updated_at": "2026-09-08T13:04:55.739074",
+  "seller_tag_count": 6,
+  "category_attribute_count": 4,
+  "detail_updated_at": "2026-09-16T13:08:55.842804",
+  "images_reprocessed_at": "2026-09-16T13:05:10.555524",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:27:42.047312+00:00"
+}

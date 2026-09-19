@@ -1,0 +1,20 @@
+{
+  "status": "deleted",
+  "updated_at": "2026-08-20T12:31:15.435Z",
+  "deleted_at": "2026-08-20T12:31:15.435Z",
+  "deletion_reason": "의약외품 판매 제외",
+  "productNo": 13711103036,
+  "originProductNo": 13650770339,
+  "salePrice": 26300,
+  "registered_at": "2026-08-09T04:09:16.331550",
+  "images_refreshed_at": "2026-08-09T12:54:27.208737",
+  "detail_updated_at": "2026-08-09T13:41:08.067379",
+  "detail_image_count": 4,
+  "title_updated_at": "2026-08-09T12:21:13.438264",
+  "title_updated_from": "콜게이트 그레이트 레귤러 치약 250g x 5개",
+  "title_updated_to": "대용량 콜게이트 레귤러 치약 250g 5개",
+  "images_reprocessed_at": "2026-08-09T12:54:00.197886",
+  "search_fields_updated_at": "2026-08-09T15:43:49.254441",
+  "seller_tag_count": 5,
+  "category_attribute_count": 0
+}

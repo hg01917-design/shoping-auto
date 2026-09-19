@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711483627,
+  "originProductNo": 13651150817,
+  "salePrice": 15300,
+  "registered_at": "2026-08-09T06:49:52.692093",
+  "updated_at": "2026-09-16T13:12:15.576562",
+  "images_refreshed_at": "2026-08-09T12:57:17.278015",
+  "detail_updated_at": "2026-09-16T13:12:15.576552",
+  "detail_image_count": 4,
+  "title_updated_at": "2026-08-09T12:22:27.117675",
+  "title_updated_from": "스내픽 트러플 하몽 크래커 1.16kg",
+  "title_updated_to": "트러플 하몽 크래커 스내픽 1.16kg",
+  "images_reprocessed_at": "2026-09-16T13:05:29.769544",
+  "search_fields_updated_at": "2026-08-09T15:45:43.588314",
+  "seller_tag_count": 3,
+  "category_attribute_count": 0,
+  "customerDeliveryFee": 4000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:37.462254+00:00"
+}

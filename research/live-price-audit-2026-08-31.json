@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-08-31T05:00:00+09:00",
+  "scope": "현재 스마트스토어에 등록된 상품의 실제 판매가·고객 배송비",
+  "method": "네이버 커머스 API 원상품 조회를 순차 호출하여 각 products/*/output/listing.json의 pricing 값과 대조",
+  "registered_product_count": 97,
+  "matched_count": 97,
+  "mismatches": [],
+  "errors": [],
+  "pricing_policy": {
+    "cost_basis": "코스트코 공식 현재가 + 출고배송비 2000원 + 박스비 300원",
+    "naver_fee_rate": 0.07,
+    "target_margin_rate": 0.1,
+    "default_customer_delivery_fee": 3000,
+    "bulky_or_heavy_handling": "총 결제금액을 유지하는 범위에서 상품가 일부를 배송비로 이전하며, 6000원 초과는 사전 확인 대상"
+  }
+}

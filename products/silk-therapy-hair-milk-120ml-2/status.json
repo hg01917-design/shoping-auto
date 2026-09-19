@@ -1,0 +1,28 @@
+{
+  "status": "registered",
+  "productNo": 13750750427,
+  "originProductNo": 13690033737,
+  "salePrice": 21500,
+  "registered_at": "2026-09-08T01:34:21.281177",
+  "updated_at": "2026-09-16T13:12:13.834239",
+  "title_updated_at": "2026-09-08T10:03:11.095439",
+  "title_updated_from": "열기구 헤어밀크 120ml 2개 실크테라피",
+  "title_updated_to": "히트인핸서 헤어밀크 120ml 2개 실크테라피",
+  "seller_tags_updated_at": "2026-09-08T10:03:12.674040",
+  "sellerTags": [
+    "히트인핸서헤어밀크",
+    "실크테라피헤어밀크",
+    "헤어밀크2개",
+    "120ml헤어밀크",
+    "헤어로션2개"
+  ],
+  "search_fields_updated_at": "2026-09-08T13:07:59.101893",
+  "seller_tag_count": 5,
+  "category_attribute_count": 3,
+  "detail_updated_at": "2026-09-16T13:12:13.834222",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:36.726430+00:00"
+}

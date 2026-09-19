@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:11:40.589223",
+  "productNo": 13740047018,
+  "originProductNo": 13679427428,
+  "salePrice": 36000,
+  "registered_at": "2026-09-01T00:16:54.329293",
+  "detail_updated_at": "2026-09-16T13:11:40.589213",
+  "detail_image_count": 3,
+  "leafCategoryId": "50022779",
+  "customerDeliveryFee": 3000,
+  "search_fields_updated_at": "2026-09-08T13:07:43.015959",
+  "seller_tag_count": 3,
+  "category_attribute_count": 1,
+  "title_updated_at": "2026-09-02T10:34:41.591268",
+  "title_updated_from": "네이처밸리 트레일믹스바 35g 48개",
+  "title_updated_to": "트레일믹스바 네이처밸리 35g 48개",
+  "images_reprocessed_at": "2026-09-16T13:05:25.194180",
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:07.296777+00:00"
+}

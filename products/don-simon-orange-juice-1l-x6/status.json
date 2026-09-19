@@ -1,0 +1,20 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:09:25.960444",
+  "productNo": 13739233517,
+  "originProductNo": 13678626040,
+  "salePrice": 25300,
+  "registered_at": "2026-08-31T04:44:53.463090",
+  "search_fields_updated_at": "2026-09-08T13:05:08.453895",
+  "seller_tag_count": 5,
+  "category_attribute_count": 1,
+  "detail_updated_at": "2026-09-16T13:09:25.960436",
+  "detail_image_count": 3,
+  "leafCategoryId": "50002259",
+  "customerDeliveryFee": 5200,
+  "images_reprocessed_at": "2026-09-16T13:05:14.400451",
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:11.496149+00:00"
+}

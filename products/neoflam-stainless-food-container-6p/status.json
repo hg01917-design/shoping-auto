@@ -1,0 +1,21 @@
+{
+  "status": "registered",
+  "productNo": 13739964662,
+  "originProductNo": 13679346090,
+  "salePrice": 39600,
+  "registered_at": "2026-08-31T22:38:17.011292",
+  "updated_at": "2026-09-16T13:11:42.303243",
+  "search_fields_updated_at": "2026-09-08T13:07:44.772015",
+  "seller_tag_count": 1,
+  "category_attribute_count": 1,
+  "detail_updated_at": "2026-09-16T13:11:42.303217",
+  "title_updated_at": "2026-09-09T10:58:11.220743",
+  "title_updated_from": "스텐밀폐용기세트 네오플램 304 6P 600 1200 1500ml",
+  "title_updated_to": "스텐밀폐용기세트 네오플램 304 6P 600 1200 1500ml",
+  "images_reprocessed_at": "2026-09-16T13:05:25.598570",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:07.926369+00:00"
+}

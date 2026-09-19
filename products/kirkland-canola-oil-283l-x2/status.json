@@ -1,0 +1,30 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:09:59.825079",
+  "productNo": 13740046694,
+  "originProductNo": 13679427107,
+  "salePrice": 33500,
+  "registered_at": "2026-09-01T00:16:27.581414",
+  "title_updated_at": "2026-09-08T10:19:19.420108",
+  "title_updated_from": "카놀라유 세트 2.83L 2병 커클랜드 식용유",
+  "title_updated_to": "카놀라유세트 2.83L 2병 커클랜드 식용유",
+  "detail_updated_at": "2026-09-16T13:09:59.825068",
+  "detail_image_count": 3,
+  "leafCategoryId": "50012680",
+  "customerDeliveryFee": 3000,
+  "search_fields_updated_at": "2026-09-01T11:15:57.404357",
+  "seller_tag_count": 1,
+  "category_attribute_count": 0,
+  "seller_tags_updated_at": "2026-09-08T10:19:45.026604",
+  "sellerTags": [
+    "카놀라유세트",
+    "카놀라유2병",
+    "커클랜드식용유",
+    "2830ml카놀라유"
+  ],
+  "images_reprocessed_at": "2026-09-16T13:05:17.193476",
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:37.697027+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:11:13.731322",
+  "productNo": 13711221008,
+  "originProductNo": 13650888336,
+  "salePrice": 33400,
+  "registered_at": "2026-08-09T04:56:50.872640",
+  "images_refreshed_at": "2026-08-09T12:56:37.677151",
+  "detail_updated_at": "2026-09-16T13:11:13.731312",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:22:10.742179",
+  "title_updated_from": "커클랜드 무염 혼합견과 스낵팩 45g x 21",
+  "title_updated_to": "무염 혼합견과 스낵팩 커클랜드 시그니처 45g 21봉",
+  "images_reprocessed_at": "2026-09-16T13:05:22.666209",
+  "search_fields_updated_at": "2026-08-09T15:45:14.505677",
+  "seller_tag_count": 4,
+  "category_attribute_count": 0,
+  "customerDeliveryFee": 3100,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:20.364106+00:00"
+}

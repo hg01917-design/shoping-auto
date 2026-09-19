@@ -47,6 +47,14 @@ def fetch_all_categories() -> list[dict]:
     return data if isinstance(data, list) else data.get("categories", data)
 
 
+def fetch_category(category_id: str) -> dict:
+    """리프 카테고리의 예외 조건·인증 유형까지 원문으로 조회한다."""
+    resp = requests.get(f"{CATEGORIES_URL}/{category_id}", headers=auth_headers(), timeout=60)
+    if resp.status_code != 200:
+        raise RuntimeError(f"카테고리 상세 조회 실패 (HTTP {resp.status_code}): {resp.text[:500]}")
+    return resp.json()
+
+
 def search(keyword: str, limit: int = 5) -> list[dict]:
     """키워드로 리프 카테고리를 검색한다. 캐시 우선, 미스 시 API 조회 + 캐시 갱신."""
     cache = load_cache()
@@ -77,9 +85,16 @@ def search(keyword: str, limit: int = 5) -> list[dict]:
 
 def main():
     parser = argparse.ArgumentParser(description="스마트스토어 리프 카테고리 검색")
-    parser.add_argument("keyword", help="카테고리 검색 키워드 (예: 건강식품)")
+    parser.add_argument("keyword", nargs="?", help="카테고리 검색 키워드 (예: 건강식품)")
     parser.add_argument("--limit", type=int, default=5)
+    parser.add_argument("--category-id", help="카테고리 ID의 예외 조건·인증 유형 상세 조회")
     args = parser.parse_args()
+
+    if args.category_id:
+        print(json.dumps(fetch_category(args.category_id), ensure_ascii=False, indent=2))
+        return
+    if not args.keyword:
+        parser.error("keyword 또는 --category-id 중 하나가 필요합니다.")
 
     results = search(args.keyword, args.limit)
     print(json.dumps(results, ensure_ascii=False, indent=2))

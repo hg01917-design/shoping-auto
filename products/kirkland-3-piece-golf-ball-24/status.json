@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711571650,
+  "originProductNo": 13651238780,
+  "salePrice": 43400,
+  "registered_at": "2026-08-09T07:27:46.401477",
+  "updated_at": "2026-09-16T13:09:49.248569",
+  "images_refreshed_at": "2026-08-09T12:54:36.844044",
+  "detail_updated_at": "2026-09-16T13:09:49.248547",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:21:17.492011",
+  "title_updated_from": "커클랜드 시그니춰 3피스 골프공 24개",
+  "title_updated_to": "3피스 24개입 커클랜드 시그니처 골프공",
+  "images_reprocessed_at": "2026-09-16T13:05:16.675071",
+  "search_fields_updated_at": "2026-09-08T13:05:52.890057",
+  "seller_tag_count": 3,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 10000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:21.957741+00:00"
+}

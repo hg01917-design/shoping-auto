@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:10:15.598920",
+  "productNo": 13711301073,
+  "originProductNo": 13650968576,
+  "salePrice": 23000,
+  "registered_at": "2026-08-09T05:30:40.218422",
+  "images_refreshed_at": "2026-08-09T12:55:11.119905",
+  "detail_updated_at": "2026-09-16T13:10:15.598912",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-18T10:38:26.715750",
+  "title_updated_from": "리프레싱향 건조기시트 커클랜드 시그니처 250매 2개",
+  "title_updated_to": "종이 섬유유연제 건조기시트 커클랜드 시그니처 250매 2개",
+  "images_reprocessed_at": "2026-09-16T13:05:18.370914",
+  "search_fields_updated_at": "2026-08-09T15:44:19.874214",
+  "seller_tag_count": 3,
+  "category_attribute_count": 0,
+  "customerDeliveryFee": 3900,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:44.880696+00:00"
+}

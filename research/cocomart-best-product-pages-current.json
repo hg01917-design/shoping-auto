@@ -1,0 +1,716 @@
+{
+  "source": "부산코코상회",
+  "source_bests_checked_at": "2026-08-08T22:17:44.260359+00:00",
+  "verified_at": "2026-08-08T22:18:00.869227+00:00",
+  "products": [
+    {
+      "rank": 1,
+      "product_no": "1035",
+      "name": "커클랜드 그릭요거트 무지방요거트 907g x 2개 코스트코 (아이스박스 포장)",
+      "cost": 20889,
+      "source_url": "https://cocomart.co.kr/product/커클랜드-그릭요거트-무지방요거트-907g-x-2개-코스트코-아이스박스-포장/1035/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:44.875446+00:00",
+        "http_status": 200,
+        "detail_image_count": 5,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://shop-phinf.pstatic.net/20230705_55/1688539244415miCGp_PNG/%EC%BB%A4%ED%81%B4%EB%9E%9C%EB%93%9C-%EA%B7%B8%EB%A6%AD%EC%9A%94%EA%B1%B0%ED%8A%B8-%EB%AC%B4%EC%A7%80%EB%B0%A9%EC%9A%94%EA%B1%B0%ED%8A%B8-907g.png",
+          "https://shop-phinf.pstatic.net/20230629_80/1688012799728h7utN_PNG/230628_%EC%BB%A4%ED%81%B4%EB%9E%9C%EB%93%9C%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B6%B0-%EA%B7%B8%EB%A6%AD%EC%9A%94%EA%B1%B0%ED%8A%B8.png",
+          "https://cocomart.co.kr/_wg/img/product_spac/P0000BNV_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "product_no": "503",
+      "name": "미국산 냉동 찜본갈비 2.5kg",
+      "cost": 74750,
+      "source_url": "https://cocomart.co.kr/product/미국산-냉동-찜본갈비-25kg/503/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:45.659190+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/f29c0215e4f5be577c7ac96559729c32.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/a682b316646b649b8a5d8b3165977988.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/b5fa7f59318c190c078ee2ce7b0f8668.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000TJ_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "product_no": "112",
+      "name": "스타벅스 까페 베로나 원두커피 1.13kg",
+      "cost": 50050,
+      "source_url": "https://cocomart.co.kr/product/스타벅스-까페-베로나-원두커피-113kg/112/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:46.604039+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://shop-phinf.pstatic.net/20220225_195/1645776699794j1O69_JPEG/KakaoTalk_Photo_2022-02-24-18-23-08_021.jpeg",
+          "https://shop-phinf.pstatic.net/20220225_80/16457767091087rsNi_JPEG/KakaoTalk_Photo_2022-02-24-18-23-08_022.jpeg",
+          "https://shop-phinf.pstatic.net/20220225_285/1645776721689DPrIJ_JPEG/KakaoTalk_Photo_2022-02-24-18-23-08_019.jpeg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000EI_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "product_no": "775",
+      "name": "사푸토 치즈헤드 오리지널 스트링치즈 48ea 1.36kg 코스트코",
+      "cost": 19790,
+      "source_url": "https://cocomart.co.kr/product/사푸토-치즈헤드-오리지널-스트링치즈-48ea-136kg-코스트코/775/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:47.280823+00:00",
+        "http_status": 200,
+        "detail_image_count": 5,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230612/2797500e6471c793c19ab2594f5768dd.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230612/1c70700e034fd320980cfdb179306a57.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P0000BDV_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "product_no": "515",
+      "name": "네덜란드산 냉동삼겹도매 / g당 단가제 / 냉동 코스트코 직배송",
+      "cost": 48300,
+      "source_url": "https://cocomart.co.kr/product/네덜란드산-냉동삼겹도매-g당-단가제-냉동-코스트코-직배송/515/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:47.974443+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/8f9efd73bde1a1fb236ddb0c0e5a2314.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230601/a7492f8702b77b201c5668cc85ea936c.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230601/6dec01693be8472166875777d1bc5d2b.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000TV_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "product_no": "2380",
+      "name": "비비고 썰은배추김치 3kg X 4아이스포장 1개",
+      "cost": 93380,
+      "source_url": "https://cocomart.co.kr/product/비비고-썰은배추김치-3kg-x-4아이스포장-1개/2380/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:48.880941+00:00",
+        "http_status": 200,
+        "detail_image_count": 7,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://shop-phinf.pstatic.net/20241016_132/1729067554253G2vlL_JPEG/1729067552456.jpg",
+          "https://shop-phinf.pstatic.net/20241016_73/1729067575755swL4Q_JPEG/1729067574369.jpg",
+          "https://shop-phinf.pstatic.net/20241016_137/1729067597123dkjTv_JPEG/1729067595345.jpg",
+          "https://shop-phinf.pstatic.net/20241016_91/17290676188831VQH1_JPEG/1729067617407.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P0000DNO_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "product_no": "536",
+      "name": "동물복지두마리 통닭 2.4kg",
+      "cost": 21280,
+      "source_url": "https://cocomart.co.kr/product/동물복지두마리-통닭-24kg/536/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:49.659185+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/c887911c76ede53dfcab1f8852410ad2.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/3de33645b451ad5e13b68940b96bd9d5.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/81abd7283f76aed049d5a94fb131f46f.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000UQ_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "product_no": "638",
+      "name": "포카리스웨이트 이온음료 340ml x 20팩",
+      "cost": 15390,
+      "source_url": "https://cocomart.co.kr/product/포카리스웨이트-이온음료-340ml-x-20팩/638/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:50.719418+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230523/58941172835c6b59d0c81b90d963d5d5.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230523/f2efd9fb257577829a2586b415bb6964.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230523/28af2b225d71eadba8afc8de522634b3.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000YO_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "product_no": "753",
+      "name": "R) 스타벅스 브랙퍼스트 블랜드 원두커피 1.13kg 코스트코",
+      "cost": 50050,
+      "source_url": "https://cocomart.co.kr/product/r-스타벅스-브랙퍼스트-블랜드-원두커피-113kg-코스트코/753/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:51.502804+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://shop-phinf.pstatic.net/20220225_121/1645777303491VxuTn_JPEG/KakaoTalk_Photo_2022-02-24-18-23-09_025.jpeg",
+          "https://shop-phinf.pstatic.net/20220225_210/1645777311956bilmE_JPEG/KakaoTalk_Photo_2022-02-24-18-23-09_024.jpeg",
+          "https://shop-phinf.pstatic.net/20220225_225/1645777319453NXvik_JPEG/KakaoTalk_Photo_2022-02-24-18-23-08_020.jpeg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P0000BCZ_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "product_no": "58",
+      "name": "커클랜드 시그니춰 무염 믹스넛 1.13kg",
+      "cost": 26830,
+      "source_url": "https://cocomart.co.kr/product/커클랜드-시그니춰-무염-믹스넛-113kg/58/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:52.199473+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/c0d353105cfef96b4fef7a835c204b9c.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/44a50ee47ace10fd666b7e9b784fe269.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/73a3806fce4eef3d66d652391c71374c.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000CG_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "product_no": "606",
+      "name": "미이랑 국내산 서리태 1.8kg",
+      "cost": 12200,
+      "source_url": "https://cocomart.co.kr/product/미이랑-국내산-서리태-18kg/606/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:52.947738+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230531/368e83d0fca57e9c83494e796394c2a6.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230531/1ececfcf4f26d733c9e83d3c28a54dce.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230531/7f8de8917848e5b73f33949abdff8ff1.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000XI_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 12,
+      "product_no": "728",
+      "name": "마르티넬리 골드메달 애플주스 사과주스 296ml x 24개 마티넬리 주스 코스트코",
+      "cost": 43990,
+      "source_url": "https://cocomart.co.kr/product/마르티넬리-골드메달-애플주스-사과주스-296ml-x-24개-마티넬리-주스-코스트코/728/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:53.733651+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230526/740c6986e32ab4585ab13c5647d48c50.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230605/86b9d3d425ea4a0a314fd9fb55f52f6c.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230605/ded1d73217ddb4b62169196eb0d1fecc.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P0000BCA_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 13,
+      "product_no": "649",
+      "name": "마다마 OLIVA 올리브 트리오 1.21kg",
+      "cost": 18470,
+      "source_url": "https://cocomart.co.kr/product/마다마-oliva-올리브-트리오-121kg/649/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:54.859683+00:00",
+        "http_status": 200,
+        "detail_image_count": 9,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230530/2261d3aa3686030387f85abeb7d2d412.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230530/1cbf636b01fecfbc55c893590b713eef.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230530/e9a5ebe224fa68fe73df6c5901081aae.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230530/7c17a5b10e5d0ad24056413f6a507dba.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230530/a3105bc1b5d1a04af00925b8fc786047.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230530/2efdfda0276ee152a3e9f0ae66ca6817.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000YZ_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 14,
+      "product_no": "36",
+      "name": "알라 ARLA 하바티슬라이스 907g",
+      "cost": 17590,
+      "source_url": "https://cocomart.co.kr/product/알라-arla-하바티슬라이스-907g/36/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:55.690349+00:00",
+        "http_status": 200,
+        "detail_image_count": 8,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/59b4fc21b4cf25f33d1809e53a0901ca.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/5f81db17eb8a3ae2a05a8d22f746759e.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/5fce7d74a222ea325d0d5cb728ad5548.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/480db55fa3a02b21fc493d41b7ba0d5b.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/359128c6a26c73d35f3cc05a1fdbde77.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000BK_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "product_no": "516",
+      "name": "미국돈육앞다리 + 목심 / g당 단가제 / 냉동 코스트코 직배송",
+      "cost": 55200,
+      "source_url": "https://cocomart.co.kr/product/미국돈육앞다리-목심-g당-단가제-냉동-코스트코-직배송/516/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:56.356277+00:00",
+        "http_status": 200,
+        "detail_image_count": 6,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230522/ab4eab3f730df5cacfe21cbdafdbe27f.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230601/3873d26986535e54cbb51ad626e99bf0.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230601/92a40cc82a52ce64a490db9b54170464.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000TW_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "product_no": "17",
+      "name": "하겐다즈 하프갤런 바닐라 1.89L",
+      "cost": 35189,
+      "source_url": "https://cocomart.co.kr/product/하겐다즈-하프갤런-바닐라-189l/17/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:57.256990+00:00",
+        "http_status": 200,
+        "detail_image_count": 7,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230608/335c8b4a9157f154284df9e0950de86d.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230608/c1e25a56f19b6f22df4a0889b1b49219.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230608/cd160882e83a48527926b80c2048d662.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230608/df28826e76f678c08aebadec029708e1.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P000000R_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 17,
+      "product_no": "102",
+      "name": "다용도 타프 양면 방수 덮개 3.6m x 4.8m 2pk",
+      "cost": 26940,
+      "source_url": "https://cocomart.co.kr/product/다용도-타프-양면-방수-덮개-36m-x-48m-2pk/102/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:58.161765+00:00",
+        "http_status": 200,
+        "detail_image_count": 7,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230607/a35fa835e1bf45404bbecfd4493a98b9.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230607/1399baaddf515b6290c0262c12bc37e5.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230607/8f1eba83208173939d35ab818865ec65.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230607/ab4fd2f9333f93253aac188f6d924d4c.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000DY_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "product_no": "81",
+      "name": "페리에 탄산수 레몬/라임 200ml",
+      "cost": 35739,
+      "source_url": "https://cocomart.co.kr/product/페리에-탄산수-레몬라임-200ml/81/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:59.006815+00:00",
+        "http_status": 200,
+        "detail_image_count": 5,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230523/aef0ea53faa9103e16271324d8eee8f3.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230523/f617d90a2038bb22f52cbd0f2b00167f.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000DD_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 19,
+      "product_no": "159",
+      "name": "커클랜드 플레인/블루베리/어니언 베이글 6개 x 2",
+      "cost": 7580,
+      "source_url": "https://cocomart.co.kr/product/커클랜드-플레인블루베리어니언-베이글-6개-x-2/159/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:17:59.846958+00:00",
+        "http_status": 200,
+        "detail_image_count": 5,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://shop-phinf.pstatic.net/20220420_177/1650458787953UEncY_JPEG/20220420_105916.jpg",
+          "https://shop-phinf.pstatic.net/20220420_132/1650458798646lVEoK_JPEG/20220420_105936.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000GD_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "product_no": "35",
+      "name": "APOLLO 아폴로 과일치즈 멜론+망고 / 살구+아몬드 200g x 3",
+      "cost": 17590,
+      "source_url": "https://cocomart.co.kr/product/apollo-아폴로-과일치즈-멜론망고-살구아몬드-200g-x-3/35/category/1/display/15/?icid=MAIN.product_listmain_14",
+      "best_evidence": {
+        "section_title": "코스트코 인기제품 판매 베스트 상품",
+        "signal": "홈페이지 공개 진열 순서",
+        "sales_volume_disclosed": false,
+        "note": "판매량은 공개되지 않아 추정하지 않음"
+      },
+      "status": "needs_label_and_stock_verification",
+      "page_verification": {
+        "checked_at": "2026-08-08T22:18:00.661723+00:00",
+        "http_status": 200,
+        "detail_image_count": 11,
+        "detail_image_urls": [
+          "https://cocomart.co.kr/_wg/img/img_info1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230613/22e98d782fc4e9a9ad52b578b5837604.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230613/88ed93687cb58cbe0f06e0da8635e1de.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/c58c949490abbe41d72d1a1aaa38776a.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230613/62e7edfd39902bc2b9cd437023e85401.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/1ac208cbf31bc55041bea067eacb01b1.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/85b675aa02123d2de33b569608f3bd87.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/2cd97c6b46a7738f7017ef3ecd85a83c.jpg",
+          "https://ecimg.cafe24img.com/pg140b22250902099/cocostor/web/upload/NNEditor/20230524/04bedd2cc15c766da0b5ffc7b4c1c532.jpg",
+          "https://cocomart.co.kr/_wg/img/product_spac/P00000BJ_spac.jpg",
+          "https://cocomart.co.kr/_wg/img/img_info2.jpg"
+        ],
+        "purchase_ui_present": true,
+        "sales_volume_disclosed": false,
+        "stock_note": "공개 페이지의 숨김 SOLD OUT 템플릿은 재고 근거로 사용하지 않음",
+        "next_required": [
+          "실제 재고 또는 주문 가능 상태 확인",
+          "라벨에서 고시·원산지·보관법 확인",
+          "가격 계산과 카테고리 검증"
+        ]
+      }
+    }
+  ]
+}

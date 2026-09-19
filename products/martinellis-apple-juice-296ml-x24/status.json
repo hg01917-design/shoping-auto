@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13710933079,
+  "originProductNo": 13650600526,
+  "salePrice": 60000,
+  "registered_at": "2026-08-09T02:59:10.142857",
+  "updated_at": "2026-09-16T13:11:33.378295",
+  "images_refreshed_at": "2026-08-09T12:56:56.702986",
+  "detail_updated_at": "2026-09-16T13:11:33.378284",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-09-09T10:30:24.191723",
+  "title_updated_from": "사과주스 100% 마티넬리 PET 296ml 24개",
+  "title_updated_to": "100% 사과주스 PET 296ml 24개 마티넬리",
+  "images_reprocessed_at": "2026-09-16T13:05:24.383913",
+  "search_fields_updated_at": "2026-09-08T13:07:37.645928",
+  "seller_tag_count": 3,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:04.594837+00:00"
+}

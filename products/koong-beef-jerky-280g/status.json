@@ -1,0 +1,30 @@
+{
+  "status": "registered",
+  "productNo": 13711466786,
+  "originProductNo": 13651134005,
+  "salePrice": 25000,
+  "registered_at": "2026-08-09T06:42:10.497942",
+  "updated_at": "2026-09-16T13:11:24.637317",
+  "images_refreshed_at": "2026-08-09T12:56:53.591274",
+  "detail_updated_at": "2026-09-16T13:11:24.637309",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-09-03T10:06:17.129330",
+  "title_updated_from": "육포간식 궁 쇠고기 280g",
+  "title_updated_to": "쇠고기 육포 궁 280g 간식",
+  "images_reprocessed_at": "2026-09-16T13:05:23.328263",
+  "search_fields_updated_at": "2026-08-09T15:45:31.427536",
+  "seller_tag_count": 3,
+  "category_attribute_count": 0,
+  "customerDeliveryFee": 3100,
+  "seller_tags_updated_at": "2026-09-02T10:32:55.644475",
+  "sellerTags": [
+    "궁육포",
+    "쇠고기육포",
+    "육포280g",
+    "육포간식"
+  ],
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:00.964819+00:00"
+}

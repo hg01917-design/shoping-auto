@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13739167208,
+  "originProductNo": 13678560173,
+  "salePrice": 36900,
+  "registered_at": "2026-08-31T02:01:52.297064",
+  "updated_at": "2026-09-16T13:09:08.172450",
+  "search_fields_updated_at": "2026-09-08T13:05:01.263435",
+  "seller_tag_count": 6,
+  "category_attribute_count": 1,
+  "title_updated_at": "2026-09-03T10:05:07.029419",
+  "title_updated_from": "강아지습식사료 시저 쇠고기 캔 100g 24개입",
+  "title_updated_to": "시저 쇠고기 100g 24개입 강아지습식사료",
+  "detail_updated_at": "2026-09-16T13:09:08.172443",
+  "detail_image_count": 4,
+  "leafCategoryId": "50006633",
+  "customerDeliveryFee": 9900,
+  "images_reprocessed_at": "2026-09-16T13:05:12.162426",
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:04.140954+00:00"
+}

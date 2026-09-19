@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711241845,
+  "originProductNo": 13650909142,
+  "salePrice": 36800,
+  "registered_at": "2026-08-09T05:05:05.918553",
+  "updated_at": "2026-09-16T13:10:59.759855",
+  "images_refreshed_at": "2026-08-31T20:05:53.133197",
+  "detail_updated_at": "2026-09-16T13:10:59.759842",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-09-03T10:05:12.709571",
+  "title_updated_from": "구운 마카다미아 커클랜드 시그니처 680g",
+  "title_updated_to": "호주산 마카다미아 커클랜드 구운 680g",
+  "images_reprocessed_at": "2026-09-16T13:05:21.614559",
+  "search_fields_updated_at": "2026-08-09T15:45:00.527497",
+  "seller_tag_count": 5,
+  "category_attribute_count": 0,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:14.523900+00:00"
+}

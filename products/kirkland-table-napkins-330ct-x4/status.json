@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711526436,
+  "originProductNo": 13651193541,
+  "salePrice": 30300,
+  "registered_at": "2026-08-09T07:08:09.713268",
+  "updated_at": "2026-09-16T13:11:08.459429",
+  "images_refreshed_at": "2026-08-09T12:56:27.454429",
+  "detail_updated_at": "2026-09-16T13:11:08.459416",
+  "detail_image_count": 4,
+  "title_updated_at": "2026-09-01T11:18:47.129861",
+  "title_updated_from": "대용량 테이블냅킨 커클랜드 시그니처 330매 4개",
+  "title_updated_to": "테이블냅킨 330매 4개 커클랜드 시그니처 대용량",
+  "images_reprocessed_at": "2026-09-16T13:05:21.935062",
+  "search_fields_updated_at": "2026-09-08T13:07:08.710280",
+  "seller_tag_count": 3,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 6000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:18.147303+00:00"
+}

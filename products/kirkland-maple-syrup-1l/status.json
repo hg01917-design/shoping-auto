@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711138778,
+  "originProductNo": 13650806079,
+  "salePrice": 25100,
+  "registered_at": "2026-08-09T04:23:01.954958",
+  "updated_at": "2026-09-16T13:10:31.289264",
+  "images_refreshed_at": "2026-08-09T12:55:33.996043",
+  "detail_updated_at": "2026-09-16T13:10:31.289243",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:21:43.134183",
+  "title_updated_from": "단풍시럽 커클랜드 시그니춰 메이플시럽 1L",
+  "title_updated_to": "단풍 메이플시럽 커클랜드 시그니처 1L",
+  "images_reprocessed_at": "2026-09-16T13:05:19.305831",
+  "search_fields_updated_at": "2026-09-08T13:06:25.446595",
+  "seller_tag_count": 5,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 4000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:51.681989+00:00"
+}

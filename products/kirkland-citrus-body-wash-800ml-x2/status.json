@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:10:04.992044",
+  "productNo": 13711422560,
+  "originProductNo": 13651089829,
+  "salePrice": 23900,
+  "registered_at": "2026-08-09T06:22:48.388884",
+  "images_refreshed_at": "2026-08-09T12:54:55.742519",
+  "detail_updated_at": "2026-09-16T13:10:04.992037",
+  "detail_image_count": 4,
+  "title_updated_at": "2026-08-09T12:21:26.186607",
+  "title_updated_from": "시트러스바디워시 커클랜드 시그니춰 바디클렌저 800ml 2개",
+  "title_updated_to": "시트러스 바디워시 커클랜드 시그니처 800ml 2개",
+  "images_reprocessed_at": "2026-09-16T13:05:17.651296",
+  "search_fields_updated_at": "2026-09-08T13:06:07.588814",
+  "seller_tag_count": 2,
+  "category_attribute_count": 2,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:40.246075+00:00"
+}

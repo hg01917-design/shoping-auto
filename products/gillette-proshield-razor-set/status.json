@@ -1,0 +1,21 @@
+{
+  "status": "registered",
+  "productNo": 13739210112,
+  "originProductNo": 13678602768,
+  "salePrice": 74400,
+  "registered_at": "2026-08-31T03:39:28.190564",
+  "updated_at": "2026-09-16T13:09:34.863873",
+  "search_fields_updated_at": "2026-09-08T13:05:15.513485",
+  "seller_tag_count": 4,
+  "category_attribute_count": 4,
+  "title_updated_at": "2026-09-03T10:05:22.962010",
+  "title_updated_from": "파워면도기 질레트 프로쉴드 핸들1 날9개 세트",
+  "title_updated_to": "프로쉴드 질레트 파워면도기 핸들1 날9개 세트",
+  "detail_updated_at": "2026-09-16T13:09:34.863858",
+  "images_reprocessed_at": "2026-09-16T13:05:15.563143",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:15.326885+00:00"
+}

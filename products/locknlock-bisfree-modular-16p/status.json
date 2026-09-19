@@ -1,0 +1,30 @@
+{
+  "status": "registered",
+  "productNo": 13739976790,
+  "originProductNo": 13679358014,
+  "salePrice": 28700,
+  "registered_at": "2026-08-31T22:53:58.676806",
+  "updated_at": "2026-09-16T13:11:26.383302",
+  "search_fields_updated_at": "2026-09-08T13:07:16.088946",
+  "seller_tag_count": 5,
+  "category_attribute_count": 4,
+  "seller_tags_updated_at": "2026-09-08T10:20:29.650934",
+  "sellerTags": [
+    "비스프리밀폐용기",
+    "락앤락밀폐용기",
+    "모듈러밀폐용기",
+    "16P밀폐용기",
+    "트라이탄밀폐용기"
+  ],
+  "detail_updated_at": "2026-09-16T13:11:26.383295",
+  "title_updated_at": "2026-09-09T11:09:43.482681",
+  "title_updated_from": "비스프리밀폐용기 락앤락 모듈러 16P 260 450 600 910mL",
+  "title_updated_to": "비스프리밀폐용기 락앤락 모듈러 16P 260 450 600 910mL",
+  "publicProductUrl": "https://smartstore.naver.com/main/products/13739976790",
+  "images_reprocessed_at": "2026-09-16T13:05:23.818172",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:01.737297+00:00"
+}

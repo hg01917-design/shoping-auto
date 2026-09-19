@@ -3,8 +3,15 @@
   "sales_linkage_fee_rate": 0.0273,
   "payment_fee_rate": 0.0363,
   "vat_multiplier": 1.1,
-  "shipping_cost": 1800,
-  "box_cost": 300,
+  "shipping_cost": 2300,
+  "customer_delivery_fee": 3000,
+  "box_cost": 0,
   "target_margin_rate": 0.10,
+  "minimum_margin_amount": 1000,
+  "min_customer_delivery_fee": 3000,
+  "max_customer_delivery_fee": 10000,
+  "delivery_fee_type": "UNIT_QUANTITY_PAID",
+  "delivery_fee_repeat_quantity": 1,
+  "delivery_bundle_group_usable": false,
   "price_rounding_unit": 100
 }

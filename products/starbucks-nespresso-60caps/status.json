@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:12:20.721194",
+  "productNo": 13711112695,
+  "originProductNo": 13650779997,
+  "salePrice": 56300,
+  "registered_at": "2026-08-09T04:13:03.213570",
+  "images_refreshed_at": "2026-08-09T12:57:27.539156",
+  "detail_updated_at": "2026-09-16T13:12:20.721186",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-09-03T10:05:17.124500",
+  "title_updated_from": "네스프레소 호환 캡슐커피 스타벅스 60개",
+  "title_updated_to": "캡슐커피 스타벅스 네스프레소 호환 60개",
+  "images_reprocessed_at": "2026-09-16T13:05:29.952294",
+  "search_fields_updated_at": "2026-09-08T13:08:04.616673",
+  "seller_tag_count": 5,
+  "category_attribute_count": 2,
+  "customerDeliveryFee": 3100,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:39.658950+00:00"
+}

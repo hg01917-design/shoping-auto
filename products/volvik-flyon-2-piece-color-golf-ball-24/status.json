@@ -1,0 +1,21 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:12:36.484652",
+  "productNo": 13739177823,
+  "originProductNo": 13678570696,
+  "salePrice": 24500,
+  "registered_at": "2026-08-31T02:22:55.018102",
+  "search_fields_updated_at": "2026-09-08T13:08:29.909453",
+  "seller_tag_count": 5,
+  "category_attribute_count": 2,
+  "title_updated_at": "2026-09-03T10:05:18.575480",
+  "title_updated_from": "컬러 골프공 볼빅 플라이온 2피스 24개",
+  "title_updated_to": "골프공 볼빅 플라이온 컬러 2피스 24개",
+  "detail_updated_at": "2026-09-16T13:12:36.484646",
+  "images_reprocessed_at": "2026-09-16T13:05:32.563363",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:46.093280+00:00"
+}

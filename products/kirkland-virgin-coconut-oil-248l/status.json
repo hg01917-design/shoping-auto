@@ -1,0 +1,21 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:11:19.124362",
+  "productNo": 13739962113,
+  "originProductNo": 13679343569,
+  "salePrice": 29900,
+  "registered_at": "2026-08-31T22:35:59.907194",
+  "search_fields_updated_at": "2026-09-09T23:56:16.842192",
+  "seller_tag_count": 4,
+  "category_attribute_count": 1,
+  "detail_updated_at": "2026-09-16T13:11:19.124318",
+  "title_updated_at": "2026-09-09T10:58:10.375144",
+  "title_updated_from": "식용코코넛오일 커클랜드 시그니춰 2.48L",
+  "title_updated_to": "식용코코넛오일 커클랜드 시그니춰 2.48L",
+  "images_reprocessed_at": "2026-09-16T13:05:23.123641",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:22.426465+00:00"
+}

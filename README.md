@@ -77,10 +77,12 @@ products 안에 있는 신규 상품 전부 올려줘
 ### 스크립트 단독 실행 (디버깅)
 ```bash
 python3 scripts/pricing.py --cost 18900                  # 가격 계산 (API 키 불필요)
-python3 scripts/process_images.py <입력폴더> <출력폴더>    # 이미지 가공 (API 키 불필요)
+python3 scripts/process_images.py <입력폴더> <출력폴더>    # 이미지 가공 (API 키 불필요, processing-manifest.json 생성)
 python3 scripts/naver_auth.py                            # 토큰 발급 테스트
 python3 scripts/search_category.py "견과류"               # 카테고리 검색
 python3 scripts/register_product.py products/<slug>      # 등록 실행
+python3 scripts/refresh_product_images.py products/<slug> # 기존 상품 이미지·상세 갱신
+python3 scripts/refresh_registered_product_images.py      # 등록 상품 전체 이미지·상세 갱신
 ```
 
 ## 파일 구조

@@ -1,0 +1,1352 @@
+{
+  "generated_at": "2026-08-29T15:21:28.220Z",
+  "criteria": {
+    "excluded": "냉장·냉동 보류",
+    "actual_shipping_cost": 2000,
+    "customer_delivery_fee": 3000,
+    "box_cost": 300,
+    "target_margin_rate": 0.1
+  },
+  "products": [
+    {
+      "id": 14,
+      "source_folder": "980 반려동물/커클랜드 배변패드",
+      "procurement_cost": 23990,
+      "pricing": {
+        "ok": true,
+        "cost": 23990,
+        "sale_price": 28700,
+        "fee_rate": 0.07,
+        "fee_amount": 2218,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 31700,
+        "box_cost": 300,
+        "total_cost": 28508,
+        "margin_amount": 3192,
+        "margin_rate_on_revenue": 0.1007,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 15,
+      "source_folder": "980 반려동물/918 바우와우 애견용 혼합간식",
+      "procurement_cost": 18990,
+      "pricing": {
+        "ok": true,
+        "cost": 18990,
+        "sale_price": 22700,
+        "fee_rate": 0.07,
+        "fee_amount": 1798,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 25700,
+        "box_cost": 300,
+        "total_cost": 23088,
+        "margin_amount": 2612,
+        "margin_rate_on_revenue": 0.1016,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 21,
+      "source_folder": "980 반려동물/911 커클랜드 고양이사료",
+      "procurement_cost": 41490,
+      "pricing": {
+        "ok": true,
+        "cost": 41490,
+        "sale_price": 49800,
+        "fee_rate": 0.07,
+        "fee_amount": 3694,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 52800,
+        "box_cost": 300,
+        "total_cost": 47484,
+        "margin_amount": 5316,
+        "margin_rate_on_revenue": 0.1007,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 22,
+      "source_folder": "980 반려동물/910 커클랜드 도메인 새먼앤 스위트포테이도",
+      "procurement_cost": 73900,
+      "pricing": {
+        "ok": true,
+        "cost": 73900,
+        "sale_price": 88900,
+        "fee_rate": 0.07,
+        "fee_amount": 6429,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 91900,
+        "box_cost": 300,
+        "total_cost": 82629,
+        "margin_amount": 9271,
+        "margin_rate_on_revenue": 0.1009,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 23,
+      "source_folder": "980 반려동물/900 벨버드 애견용패드",
+      "procurement_cost": 22990,
+      "pricing": {
+        "ok": true,
+        "cost": 22990,
+        "sale_price": 27500,
+        "fee_rate": 0.07,
+        "fee_amount": 2134,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 30500,
+        "box_cost": 300,
+        "total_cost": 27424,
+        "margin_amount": 3076,
+        "margin_rate_on_revenue": 0.1009,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 24,
+      "source_folder": "980 반려동물/800 벨버드 밀크 껌",
+      "procurement_cost": 16790,
+      "pricing": {
+        "ok": true,
+        "cost": 16790,
+        "sale_price": 20000,
+        "fee_rate": 0.07,
+        "fee_amount": 1609,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 23000,
+        "box_cost": 300,
+        "total_cost": 20699,
+        "margin_amount": 2301,
+        "margin_rate_on_revenue": 0.1,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 25,
+      "source_folder": "980 반려동물/700 뉴트리나 비스트로",
+      "procurement_cost": 23790,
+      "pricing": {
+        "ok": true,
+        "cost": 23790,
+        "sale_price": 28500,
+        "fee_rate": 0.07,
+        "fee_amount": 2204,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 31500,
+        "box_cost": 300,
+        "total_cost": 28294,
+        "margin_amount": 3206,
+        "margin_rate_on_revenue": 0.1018,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 27,
+      "source_folder": "980 반려동물/500 시저 쇠고기 캔",
+      "procurement_cost": 36490,
+      "pricing": {
+        "ok": true,
+        "cost": 36490,
+        "sale_price": 43800,
+        "fee_rate": 0.07,
+        "fee_amount": 3274,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 46800,
+        "box_cost": 300,
+        "total_cost": 42064,
+        "margin_amount": 4736,
+        "margin_rate_on_revenue": 0.1012,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 31,
+      "source_folder": "980 반려동물/150 챠오츄르 고양이간식",
+      "procurement_cost": 37790,
+      "pricing": {
+        "ok": true,
+        "cost": 37790,
+        "sale_price": 45300,
+        "fee_rate": 0.07,
+        "fee_amount": 3379,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 48300,
+        "box_cost": 300,
+        "total_cost": 43469,
+        "margin_amount": 4831,
+        "margin_rate_on_revenue": 0.1,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 33,
+      "source_folder": "980 반려동물/130 바우와우 애견용 혼합간식",
+      "procurement_cost": 18990,
+      "pricing": {
+        "ok": true,
+        "cost": 18990,
+        "sale_price": 22700,
+        "fee_rate": 0.07,
+        "fee_amount": 1798,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 25700,
+        "box_cost": 300,
+        "total_cost": 23088,
+        "margin_amount": 2612,
+        "margin_rate_on_revenue": 0.1016,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 37,
+      "source_folder": "970 차량용품/997 다용도 극세사타올",
+      "procurement_cost": 25490,
+      "pricing": {
+        "ok": true,
+        "cost": 25490,
+        "sale_price": 30500,
+        "fee_rate": 0.07,
+        "fee_amount": 2344,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 33500,
+        "box_cost": 300,
+        "total_cost": 30134,
+        "margin_amount": 3366,
+        "margin_rate_on_revenue": 0.1005,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 42,
+      "source_folder": "966 질레트 면도기/994 질레트 프로쉴드 면도날 14개",
+      "procurement_cost": 71900,
+      "pricing": {
+        "ok": true,
+        "cost": 71900,
+        "sale_price": 86400,
+        "fee_rate": 0.07,
+        "fee_amount": 6254,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 89400,
+        "box_cost": 300,
+        "total_cost": 80454,
+        "margin_amount": 8946,
+        "margin_rate_on_revenue": 0.1001,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 43,
+      "source_folder": "966 질레트 면도기/993 질레트 프로쉴드",
+      "procurement_cost": 61900,
+      "pricing": {
+        "ok": true,
+        "cost": 61900,
+        "sale_price": 74400,
+        "fee_rate": 0.07,
+        "fee_amount": 5415,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 77400,
+        "box_cost": 300,
+        "total_cost": 69615,
+        "margin_amount": 7785,
+        "margin_rate_on_revenue": 0.1006,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 44,
+      "source_folder": "966 질레트 면도기/992 질레트 면도기 8셋",
+      "procurement_cost": 51900,
+      "pricing": {
+        "ok": true,
+        "cost": 51900,
+        "sale_price": 62300,
+        "fee_rate": 0.07,
+        "fee_amount": 4568,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 65300,
+        "box_cost": 300,
+        "total_cost": 58768,
+        "margin_amount": 6532,
+        "margin_rate_on_revenue": 0.1,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 46,
+      "source_folder": "960 지퍼락/지퍼락 대형",
+      "procurement_cost": 20990,
+      "pricing": {
+        "ok": true,
+        "cost": 20990,
+        "sale_price": 25100,
+        "fee_rate": 0.07,
+        "fee_amount": 1966,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 28100,
+        "box_cost": 300,
+        "total_cost": 25256,
+        "margin_amount": 2844,
+        "margin_rate_on_revenue": 0.1012,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 84,
+      "source_folder": "920 골프용품/커클랜드 골프장갑",
+      "procurement_cost": 29490,
+      "pricing": {
+        "ok": true,
+        "cost": 29490,
+        "sale_price": 35300,
+        "fee_rate": 0.07,
+        "fee_amount": 2679,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 38300,
+        "box_cost": 300,
+        "total_cost": 34469,
+        "margin_amount": 3831,
+        "margin_rate_on_revenue": 0.1,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 88,
+      "source_folder": "920 골프용품/999 나이키 골프장갑",
+      "procurement_cost": 24990,
+      "pricing": {
+        "ok": true,
+        "cost": 24990,
+        "sale_price": 29900,
+        "fee_rate": 0.07,
+        "fee_amount": 2302,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 32900,
+        "box_cost": 300,
+        "total_cost": 29592,
+        "margin_amount": 3308,
+        "margin_rate_on_revenue": 0.1005,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 89,
+      "source_folder": "920 골프용품/998 애리움여성골프장갑",
+      "procurement_cost": 29490,
+      "pricing": {
+        "ok": true,
+        "cost": 29490,
+        "sale_price": 35300,
+        "fee_rate": 0.07,
+        "fee_amount": 2679,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 38300,
+        "box_cost": 300,
+        "total_cost": 34469,
+        "margin_amount": 3831,
+        "margin_rate_on_revenue": 0.1,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 90,
+      "source_folder": "920 골프용품/997 커클랜드 골프장갑",
+      "procurement_cost": 29490,
+      "pricing": {
+        "ok": true,
+        "cost": 29490,
+        "sale_price": 35300,
+        "fee_rate": 0.07,
+        "fee_amount": 2679,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 38300,
+        "box_cost": 300,
+        "total_cost": 34469,
+        "margin_amount": 3831,
+        "margin_rate_on_revenue": 0.1,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 93,
+      "source_folder": "920 골프용품/994 볼빅 컬러볼",
+      "procurement_cost": 27490,
+      "pricing": {
+        "ok": true,
+        "cost": 27490,
+        "sale_price": 32900,
+        "fee_rate": 0.07,
+        "fee_amount": 2512,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 35900,
+        "box_cost": 300,
+        "total_cost": 32302,
+        "margin_amount": 3598,
+        "margin_rate_on_revenue": 0.1002,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 94,
+      "source_folder": "920 골프용품/934 볼빅 골프볼 화이트",
+      "procurement_cost": 35490,
+      "pricing": {
+        "ok": true,
+        "cost": 35490,
+        "sale_price": 42600,
+        "fee_rate": 0.07,
+        "fee_amount": 3190,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 45600,
+        "box_cost": 300,
+        "total_cost": 40980,
+        "margin_amount": 4620,
+        "margin_rate_on_revenue": 0.1013,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 95,
+      "source_folder": "920 골프용품/923 콜럼비아 쿨링팔토시2쌍",
+      "procurement_cost": 14990,
+      "pricing": {
+        "ok": true,
+        "cost": 14990,
+        "sale_price": 17900,
+        "fee_rate": 0.07,
+        "fee_amount": 1462,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 20900,
+        "box_cost": 300,
+        "total_cost": 18752,
+        "margin_amount": 2148,
+        "margin_rate_on_revenue": 0.1028,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 99,
+      "source_folder": "900 샴푸 및 로션/915 피지오겔 바디워시",
+      "procurement_cost": 29990,
+      "pricing": {
+        "ok": true,
+        "cost": 29990,
+        "sale_price": 36000,
+        "fee_rate": 0.07,
+        "fee_amount": 2728,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 39000,
+        "box_cost": 300,
+        "total_cost": 35018,
+        "margin_amount": 3982,
+        "margin_rate_on_revenue": 0.1021,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 104,
+      "source_folder": "900 샴푸 및 로션/909 피지오겔 바디로션",
+      "procurement_cost": 47990,
+      "pricing": {
+        "ok": true,
+        "cost": 47990,
+        "sale_price": 57600,
+        "fee_rate": 0.07,
+        "fee_amount": 4240,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 60600,
+        "box_cost": 300,
+        "total_cost": 54530,
+        "margin_amount": 6070,
+        "margin_rate_on_revenue": 0.1002,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 108,
+      "source_folder": "900 샴푸 및 로션/905 독도토너",
+      "procurement_cost": 26990,
+      "pricing": {
+        "ok": true,
+        "cost": 26990,
+        "sale_price": 32300,
+        "fee_rate": 0.07,
+        "fee_amount": 2470,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 35300,
+        "box_cost": 300,
+        "total_cost": 31760,
+        "margin_amount": 3540,
+        "margin_rate_on_revenue": 0.1003,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 121,
+      "source_folder": "810 식품/817 서리태스낵",
+      "procurement_cost": 17490,
+      "pricing": {
+        "ok": true,
+        "cost": 17490,
+        "sale_price": 20900,
+        "fee_rate": 0.07,
+        "fee_amount": 1672,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 23900,
+        "box_cost": 300,
+        "total_cost": 21462,
+        "margin_amount": 2438,
+        "margin_rate_on_revenue": 0.102,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 123,
+      "source_folder": "810 식품/814 병아리 콩",
+      "procurement_cost": 14990,
+      "pricing": {
+        "ok": true,
+        "cost": 14990,
+        "sale_price": 17900,
+        "fee_rate": 0.07,
+        "fee_amount": 1462,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 20900,
+        "box_cost": 300,
+        "total_cost": 18752,
+        "margin_amount": 2148,
+        "margin_rate_on_revenue": 0.1028,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 132,
+      "source_folder": "700 커피 및 음료/732 정식품 진한콩국",
+      "procurement_cost": 14990,
+      "pricing": {
+        "ok": true,
+        "cost": 14990,
+        "sale_price": 17900,
+        "fee_rate": 0.07,
+        "fee_amount": 1462,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 20900,
+        "box_cost": 300,
+        "total_cost": 18752,
+        "margin_amount": 2148,
+        "margin_rate_on_revenue": 0.1028,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 135,
+      "source_folder": "700 커피 및 음료/729 착즙 오렌지 쥬스",
+      "procurement_cost": 19990,
+      "pricing": {
+        "ok": true,
+        "cost": 19990,
+        "sale_price": 23900,
+        "fee_rate": 0.07,
+        "fee_amount": 1882,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 26900,
+        "box_cost": 300,
+        "total_cost": 24172,
+        "margin_amount": 2728,
+        "margin_rate_on_revenue": 0.1014,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 136,
+      "source_folder": "700 커피 및 음료/728 착즙 자몽쥬스",
+      "procurement_cost": 22990,
+      "pricing": {
+        "ok": true,
+        "cost": 22990,
+        "sale_price": 27500,
+        "fee_rate": 0.07,
+        "fee_amount": 2134,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 30500,
+        "box_cost": 300,
+        "total_cost": 27424,
+        "margin_amount": 3076,
+        "margin_rate_on_revenue": 0.1009,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 147,
+      "source_folder": "700 커피 및 음료/717 커클랜드 하우스 블랜드",
+      "procurement_cost": 31990,
+      "pricing": {
+        "ok": true,
+        "cost": 31990,
+        "sale_price": 38400,
+        "fee_rate": 0.07,
+        "fee_amount": 2896,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 41400,
+        "box_cost": 300,
+        "total_cost": 37186,
+        "margin_amount": 4214,
+        "margin_rate_on_revenue": 0.1018,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 148,
+      "source_folder": "700 커피 및 음료/716 커클랜드 에스프레소",
+      "procurement_cost": 35990,
+      "pricing": {
+        "ok": true,
+        "cost": 35990,
+        "sale_price": 43200,
+        "fee_rate": 0.07,
+        "fee_amount": 3232,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 46200,
+        "box_cost": 300,
+        "total_cost": 41522,
+        "margin_amount": 4678,
+        "margin_rate_on_revenue": 0.1013,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 153,
+      "source_folder": "700 커피 및 음료/711 테라로사 올데이 커피",
+      "procurement_cost": 38990,
+      "pricing": {
+        "ok": true,
+        "cost": 38990,
+        "sale_price": 46800,
+        "fee_rate": 0.07,
+        "fee_amount": 3484,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 49800,
+        "box_cost": 300,
+        "total_cost": 44774,
+        "margin_amount": 5026,
+        "margin_rate_on_revenue": 0.1009,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 154,
+      "source_folder": "700 커피 및 음료/710 테라로사 싱글오리진",
+      "procurement_cost": 32990,
+      "pricing": {
+        "ok": true,
+        "cost": 32990,
+        "sale_price": 39600,
+        "fee_rate": 0.07,
+        "fee_amount": 2980,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 42600,
+        "box_cost": 300,
+        "total_cost": 38270,
+        "margin_amount": 4330,
+        "margin_rate_on_revenue": 0.1016,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 155,
+      "source_folder": "700 커피 및 음료/709 이디아 스페셜골드블랜드",
+      "procurement_cost": 42990,
+      "pricing": {
+        "ok": true,
+        "cost": 42990,
+        "sale_price": 51600,
+        "fee_rate": 0.07,
+        "fee_amount": 3820,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 54600,
+        "box_cost": 300,
+        "total_cost": 49110,
+        "margin_amount": 5490,
+        "margin_rate_on_revenue": 0.1005,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 157,
+      "source_folder": "700 커피 및 음료/707 스타벅스 브레이크파스트커피",
+      "procurement_cost": 46990,
+      "pricing": {
+        "ok": true,
+        "cost": 46990,
+        "sale_price": 56400,
+        "fee_rate": 0.07,
+        "fee_amount": 4156,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 59400,
+        "box_cost": 300,
+        "total_cost": 53446,
+        "margin_amount": 5954,
+        "margin_rate_on_revenue": 0.1002,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 158,
+      "source_folder": "700 커피 및 음료/706 스타벅스 베로나커피",
+      "procurement_cost": 46990,
+      "pricing": {
+        "ok": true,
+        "cost": 46990,
+        "sale_price": 56400,
+        "fee_rate": 0.07,
+        "fee_amount": 4156,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 59400,
+        "box_cost": 300,
+        "total_cost": 53446,
+        "margin_amount": 5954,
+        "margin_rate_on_revenue": 0.1002,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 167,
+      "source_folder": "600 시리얼 및 건강제품군/609 보노 콘스프",
+      "procurement_cost": 20990,
+      "pricing": {
+        "ok": true,
+        "cost": 20990,
+        "sale_price": 25100,
+        "fee_rate": 0.07,
+        "fee_amount": 1966,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 28100,
+        "box_cost": 300,
+        "total_cost": 25256,
+        "margin_amount": 2844,
+        "margin_rate_on_revenue": 0.1012,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 180,
+      "source_folder": "500 간식 및 안주제품군/634 커클랜드 건 블루베리",
+      "procurement_cost": 19990,
+      "pricing": {
+        "ok": true,
+        "cost": 19990,
+        "sale_price": 23900,
+        "fee_rate": 0.07,
+        "fee_amount": 1882,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 26900,
+        "box_cost": 300,
+        "total_cost": 24172,
+        "margin_amount": 2728,
+        "margin_rate_on_revenue": 0.1014,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 181,
+      "source_folder": "500 간식 및 안주제품군/633 썬스위트 건자두",
+      "procurement_cost": 15990,
+      "pricing": {
+        "ok": true,
+        "cost": 15990,
+        "sale_price": 19100,
+        "fee_rate": 0.07,
+        "fee_amount": 1546,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 22100,
+        "box_cost": 300,
+        "total_cost": 19836,
+        "margin_amount": 2264,
+        "margin_rate_on_revenue": 0.1024,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 185,
+      "source_folder": "500 간식 및 안주제품군/630 국산땅콩볶음",
+      "procurement_cost": 33990,
+      "pricing": {
+        "ok": true,
+        "cost": 33990,
+        "sale_price": 40800,
+        "fee_rate": 0.07,
+        "fee_amount": 3064,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 43800,
+        "box_cost": 300,
+        "total_cost": 39354,
+        "margin_amount": 4446,
+        "margin_rate_on_revenue": 0.1015,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 197,
+      "source_folder": "500 간식 및 안주제품군/613 체카 치크 크래커",
+      "procurement_cost": 17890,
+      "pricing": {
+        "ok": true,
+        "cost": 17890,
+        "sale_price": 21400,
+        "fee_rate": 0.07,
+        "fee_amount": 1707,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 24400,
+        "box_cost": 300,
+        "total_cost": 21897,
+        "margin_amount": 2503,
+        "margin_rate_on_revenue": 0.1026,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 198,
+      "source_folder": "500 간식 및 안주제품군/613 오리온 스낵모음 26개",
+      "procurement_cost": 16490,
+      "pricing": {
+        "ok": true,
+        "cost": 16490,
+        "sale_price": 19700,
+        "fee_rate": 0.07,
+        "fee_amount": 1588,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 22700,
+        "box_cost": 300,
+        "total_cost": 20378,
+        "margin_amount": 2322,
+        "margin_rate_on_revenue": 0.1023,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 201,
+      "source_folder": "500 간식 및 안주제품군/524 무염 믹스넛",
+      "procurement_cost": 24990,
+      "pricing": {
+        "ok": true,
+        "cost": 24990,
+        "sale_price": 29900,
+        "fee_rate": 0.07,
+        "fee_amount": 2302,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 32900,
+        "box_cost": 300,
+        "total_cost": 29592,
+        "margin_amount": 3308,
+        "margin_rate_on_revenue": 0.1005,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 206,
+      "source_folder": "500 간식 및 안주제품군/520 버터구이오징어",
+      "procurement_cost": 24890,
+      "pricing": {
+        "ok": true,
+        "cost": 24890,
+        "sale_price": 29800,
+        "fee_rate": 0.07,
+        "fee_amount": 2295,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 32800,
+        "box_cost": 300,
+        "total_cost": 29485,
+        "margin_amount": 3315,
+        "margin_rate_on_revenue": 0.1011,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 207,
+      "source_folder": "500 간식 및 안주제품군/519 무염견과 스낵팩",
+      "procurement_cost": 27990,
+      "pricing": {
+        "ok": true,
+        "cost": 27990,
+        "sale_price": 33500,
+        "fee_rate": 0.07,
+        "fee_amount": 2554,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 36500,
+        "box_cost": 300,
+        "total_cost": 32844,
+        "margin_amount": 3656,
+        "margin_rate_on_revenue": 0.1002,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 208,
+      "source_folder": "500 간식 및 안주제품군/518 카프리션",
+      "procurement_cost": 14790,
+      "pricing": {
+        "ok": true,
+        "cost": 14790,
+        "sale_price": 17600,
+        "fee_rate": 0.07,
+        "fee_amount": 1441,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 20600,
+        "box_cost": 300,
+        "total_cost": 18531,
+        "margin_amount": 2069,
+        "margin_rate_on_revenue": 0.1004,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 215,
+      "source_folder": "500 간식 및 안주제품군/510 커클랜드 피스타치오",
+      "procurement_cost": 29990,
+      "pricing": {
+        "ok": true,
+        "cost": 29990,
+        "sale_price": 36000,
+        "fee_rate": 0.07,
+        "fee_amount": 2728,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 39000,
+        "box_cost": 300,
+        "total_cost": 35018,
+        "margin_amount": 3982,
+        "margin_rate_on_revenue": 0.1021,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 216,
+      "source_folder": "500 간식 및 안주제품군/509 커클랜드 썬스위트 건자두",
+      "procurement_cost": 15990,
+      "pricing": {
+        "ok": true,
+        "cost": 15990,
+        "sale_price": 19100,
+        "fee_rate": 0.07,
+        "fee_amount": 1546,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 22100,
+        "box_cost": 300,
+        "total_cost": 19836,
+        "margin_amount": 2264,
+        "margin_rate_on_revenue": 0.1024,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 218,
+      "source_folder": "500 간식 및 안주제품군/507 커클랜드 건블루베리",
+      "procurement_cost": 19990,
+      "pricing": {
+        "ok": true,
+        "cost": 19990,
+        "sale_price": 23900,
+        "fee_rate": 0.07,
+        "fee_amount": 1882,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 26900,
+        "box_cost": 300,
+        "total_cost": 24172,
+        "margin_amount": 2728,
+        "margin_rate_on_revenue": 0.1014,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 219,
+      "source_folder": "500 간식 및 안주제품군/506 프리미엄양쟁",
+      "procurement_cost": 18990,
+      "pricing": {
+        "ok": true,
+        "cost": 18990,
+        "sale_price": 22700,
+        "fee_rate": 0.07,
+        "fee_amount": 1798,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 25700,
+        "box_cost": 300,
+        "total_cost": 23088,
+        "margin_amount": 2612,
+        "margin_rate_on_revenue": 0.1016,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 226,
+      "source_folder": "500 간식 및 안주제품군/500 커클랜드 팝콘",
+      "procurement_cost": 27990,
+      "pricing": {
+        "ok": true,
+        "cost": 27990,
+        "sale_price": 33500,
+        "fee_rate": 0.07,
+        "fee_amount": 2554,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 36500,
+        "box_cost": 300,
+        "total_cost": 32844,
+        "margin_amount": 3656,
+        "margin_rate_on_revenue": 0.1002,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 229,
+      "source_folder": "400 프로틴바 단백질바/407 네이처밸리 트레일믹스바",
+      "procurement_cost": 28490,
+      "pricing": {
+        "ok": true,
+        "cost": 28490,
+        "sale_price": 34100,
+        "fee_rate": 0.07,
+        "fee_amount": 2596,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 37100,
+        "box_cost": 300,
+        "total_cost": 33386,
+        "margin_amount": 3714,
+        "margin_rate_on_revenue": 0.1001,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 230,
+      "source_folder": "400 프로틴바 단백질바/406 코어틴 단백질 볼",
+      "procurement_cost": 17990,
+      "pricing": {
+        "ok": true,
+        "cost": 17990,
+        "sale_price": 21500,
+        "fee_rate": 0.07,
+        "fee_amount": 1714,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 24500,
+        "box_cost": 300,
+        "total_cost": 22004,
+        "margin_amount": 2496,
+        "margin_rate_on_revenue": 0.1019,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 234,
+      "source_folder": "400 프로틴바 단백질바/402 커클랜드 그래놀라바",
+      "procurement_cost": 23990,
+      "pricing": {
+        "ok": true,
+        "cost": 23990,
+        "sale_price": 28700,
+        "fee_rate": 0.07,
+        "fee_amount": 2218,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 31700,
+        "box_cost": 300,
+        "total_cost": 28508,
+        "margin_amount": 3192,
+        "margin_rate_on_revenue": 0.1007,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 238,
+      "source_folder": "300 생활용품 세제 제품군/334 커클랜드 프리미엄3겹화장지",
+      "procurement_cost": 25990,
+      "pricing": {
+        "ok": true,
+        "cost": 25990,
+        "sale_price": 31100,
+        "fee_rate": 0.07,
+        "fee_amount": 2386,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 34100,
+        "box_cost": 300,
+        "total_cost": 30676,
+        "margin_amount": 3424,
+        "margin_rate_on_revenue": 0.1004,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 240,
+      "source_folder": "300 생활용품 세제 제품군/332 브레프파워액시트변기세정볼",
+      "procurement_cost": 21990,
+      "pricing": {
+        "ok": true,
+        "cost": 21990,
+        "sale_price": 26300,
+        "fee_rate": 0.07,
+        "fee_amount": 2050,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 29300,
+        "box_cost": 300,
+        "total_cost": 26340,
+        "margin_amount": 2960,
+        "margin_rate_on_revenue": 0.101,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 242,
+      "source_folder": "300 생활용품 세제 제품군/330오랄비 전동치솔모",
+      "procurement_cost": 51900,
+      "pricing": {
+        "ok": true,
+        "cost": 51900,
+        "sale_price": 62300,
+        "fee_rate": 0.07,
+        "fee_amount": 4568,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 65300,
+        "box_cost": 300,
+        "total_cost": 58768,
+        "margin_amount": 6532,
+        "margin_rate_on_revenue": 0.1,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 253,
+      "source_folder": "300 생활용품 세제 제품군/315 홈스타 욕실클리너",
+      "procurement_cost": 13990,
+      "pricing": {
+        "ok": true,
+        "cost": 13990,
+        "sale_price": 16700,
+        "fee_rate": 0.07,
+        "fee_amount": 1378,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 19700,
+        "box_cost": 300,
+        "total_cost": 17668,
+        "margin_amount": 2032,
+        "margin_rate_on_revenue": 0.1031,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 257,
+      "source_folder": "300 생활용품 세제 제품군/311 페브리즈",
+      "procurement_cost": 20990,
+      "pricing": {
+        "ok": true,
+        "cost": 20990,
+        "sale_price": 25100,
+        "fee_rate": 0.07,
+        "fee_amount": 1966,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 28100,
+        "box_cost": 300,
+        "total_cost": 25256,
+        "margin_amount": 2844,
+        "margin_rate_on_revenue": 0.1012,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 262,
+      "source_folder": "300 생활용품 세제 제품군/309 스카치브라이트 립트롤러",
+      "procurement_cost": 20490,
+      "pricing": {
+        "ok": true,
+        "cost": 20490,
+        "sale_price": 24500,
+        "fee_rate": 0.07,
+        "fee_amount": 1924,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 27500,
+        "box_cost": 300,
+        "total_cost": 24714,
+        "margin_amount": 2786,
+        "margin_rate_on_revenue": 0.1013,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 275,
+      "source_folder": "200 소스류/219 헤인즈 유기농케찹460_8",
+      "procurement_cost": 18990,
+      "pricing": {
+        "ok": true,
+        "cost": 18990,
+        "sale_price": 22700,
+        "fee_rate": 0.07,
+        "fee_amount": 1798,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 25700,
+        "box_cost": 300,
+        "total_cost": 23088,
+        "margin_amount": 2612,
+        "margin_rate_on_revenue": 0.1016,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 277,
+      "source_folder": "200 소스류/217 아가베 블루 시럽",
+      "procurement_cost": 19490,
+      "pricing": {
+        "ok": true,
+        "cost": 19490,
+        "sale_price": 23300,
+        "fee_rate": 0.07,
+        "fee_amount": 1840,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 26300,
+        "box_cost": 300,
+        "total_cost": 23630,
+        "margin_amount": 2670,
+        "margin_rate_on_revenue": 0.1015,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 279,
+      "source_folder": "200 소스류/215 커클랜드 메이플시럽",
+      "procurement_cost": 21790,
+      "pricing": {
+        "ok": true,
+        "cost": 21790,
+        "sale_price": 26100,
+        "fee_rate": 0.07,
+        "fee_amount": 2036,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 29100,
+        "box_cost": 300,
+        "total_cost": 26126,
+        "margin_amount": 2974,
+        "margin_rate_on_revenue": 0.1022,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 283,
+      "source_folder": "200 소스류/213 커클랜드 메이프시럽",
+      "procurement_cost": 21790,
+      "pricing": {
+        "ok": true,
+        "cost": 21790,
+        "sale_price": 26100,
+        "fee_rate": 0.07,
+        "fee_amount": 2036,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 29100,
+        "box_cost": 300,
+        "total_cost": 26126,
+        "margin_amount": 2974,
+        "margin_rate_on_revenue": 0.1022,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 294,
+      "source_folder": "100 쵸콜렛제품군/122 코어프로틴",
+      "procurement_cost": 17990,
+      "pricing": {
+        "ok": true,
+        "cost": 17990,
+        "sale_price": 21500,
+        "fee_rate": 0.07,
+        "fee_amount": 1714,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 24500,
+        "box_cost": 300,
+        "total_cost": 22004,
+        "margin_amount": 2496,
+        "margin_rate_on_revenue": 0.1019,
+        "target_margin_rate": 0.1
+      }
+    },
+    {
+      "id": 299,
+      "source_folder": "100 쵸콜렛제품군/115 벨지안커피사탕",
+      "procurement_cost": 17790,
+      "pricing": {
+        "ok": true,
+        "cost": 17790,
+        "sale_price": 21300,
+        "fee_rate": 0.07,
+        "fee_amount": 1700,
+        "shipping_cost": 2000,
+        "customer_delivery_fee": 3000,
+        "order_total": 24300,
+        "box_cost": 300,
+        "total_cost": 21790,
+        "margin_amount": 2510,
+        "margin_rate_on_revenue": 0.1033,
+        "target_margin_rate": 0.1
+      }
+    }
+  ]
+}

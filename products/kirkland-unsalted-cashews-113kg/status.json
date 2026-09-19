@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:11:12.000041",
+  "productNo": 13711215124,
+  "originProductNo": 13650882448,
+  "salePrice": 29900,
+  "registered_at": "2026-08-09T04:54:34.929904",
+  "images_refreshed_at": "2026-08-31T20:05:55.074952",
+  "detail_updated_at": "2026-09-16T13:11:12.000030",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:22:09.369579",
+  "title_updated_from": "견과류대용량 커클랜드 무염 캐슈넛 1.13kg",
+  "title_updated_to": "무염 캐슈넛 대용량 커클랜드 시그니처 1.13kg",
+  "images_reprocessed_at": "2026-09-16T13:05:22.027884",
+  "search_fields_updated_at": "2026-08-09T15:45:12.765344",
+  "seller_tag_count": 5,
+  "category_attribute_count": 0,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:19.588944+00:00"
+}

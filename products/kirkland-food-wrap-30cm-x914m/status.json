@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711264252,
+  "originProductNo": 13650931618,
+  "salePrice": 37200,
+  "registered_at": "2026-08-09T05:14:42.141026",
+  "updated_at": "2026-09-16T13:10:19.184719",
+  "images_refreshed_at": "2026-08-09T12:55:17.475266",
+  "detail_updated_at": "2026-09-16T13:10:19.184712",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-09-01T11:18:48.597949",
+  "title_updated_from": "대용량 주방랩 커클랜드 시그니처 30cm 914m",
+  "title_updated_to": "주방랩 30cm 914m 커클랜드 시그니처 대용량",
+  "images_reprocessed_at": "2026-09-16T13:05:18.431520",
+  "search_fields_updated_at": "2026-09-08T13:06:20.239008",
+  "seller_tag_count": 5,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 6000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:46.409601+00:00"
+}

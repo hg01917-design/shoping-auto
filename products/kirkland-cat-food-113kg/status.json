@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711270526,
+  "originProductNo": 13650937817,
+  "salePrice": 46800,
+  "registered_at": "2026-08-09T05:17:36.313671",
+  "updated_at": "2026-09-16T13:10:01.508164",
+  "images_refreshed_at": "2026-08-09T12:54:52.358078",
+  "detail_updated_at": "2026-09-16T13:10:01.508152",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:21:24.668024",
+  "title_updated_from": "건사료 커클랜드 시그니처 고양이사료 11.3kg",
+  "title_updated_to": "건식 고양이사료 커클랜드 시그니처 11.3kg",
+  "images_reprocessed_at": "2026-09-16T13:05:17.216939",
+  "search_fields_updated_at": "2026-09-08T13:06:04.174983",
+  "seller_tag_count": 5,
+  "category_attribute_count": 2,
+  "customerDeliveryFee": 6000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:38.430761+00:00"
+}

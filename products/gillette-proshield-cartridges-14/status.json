@@ -1,0 +1,21 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:09:33.130293",
+  "productNo": 13739189332,
+  "originProductNo": 13678582093,
+  "salePrice": 86400,
+  "registered_at": "2026-08-31T02:54:42.154894",
+  "search_fields_updated_at": "2026-09-08T13:05:13.745078",
+  "seller_tag_count": 4,
+  "category_attribute_count": 5,
+  "title_updated_at": "2026-09-03T10:05:21.521288",
+  "title_updated_from": "교체면도날 질레트 프로쉴드 5중날 14개입",
+  "title_updated_to": "프로쉴드 질레트 교체면도날 5중날 14개입",
+  "detail_updated_at": "2026-09-16T13:09:33.130276",
+  "images_reprocessed_at": "2026-09-16T13:05:15.141174",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:14.495524+00:00"
+}

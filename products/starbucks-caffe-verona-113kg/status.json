@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:12:19.061534",
+  "productNo": 13710845232,
+  "originProductNo": 13650512571,
+  "salePrice": 56400,
+  "registered_at": "2026-08-09T02:20:33.501221",
+  "detail_updated_at": "2026-09-16T13:12:19.061518",
+  "detail_image_count": 3,
+  "images_refreshed_at": "2026-08-09T12:57:24.186579",
+  "title_updated_at": "2026-08-09T12:22:29.796858",
+  "title_updated_from": "스타벅스홀빈원두 다크로스트원두 스타벅스 카페 베로나 아라비카 1.13kg",
+  "title_updated_to": "다크로스트 카페 베로나 스타벅스 원두 1.13kg",
+  "images_reprocessed_at": "2026-09-16T13:05:29.937664",
+  "search_fields_updated_at": "2026-09-08T13:08:02.684285",
+  "seller_tag_count": 6,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:38.883296+00:00"
+}

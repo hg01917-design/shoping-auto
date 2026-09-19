@@ -1,0 +1,28 @@
+{
+  "status": "registered",
+  "productNo": 13750752013,
+  "originProductNo": 13690035322,
+  "salePrice": 46200,
+  "registered_at": "2026-09-08T01:35:45.063102",
+  "updated_at": "2026-09-16T13:09:47.513717",
+  "title_updated_at": "2026-09-08T10:15:45.112381",
+  "title_updated_from": "미니 아메리카노 190개입 마일드로스트 카누",
+  "title_updated_to": "미니카누 190개입 마일드로스트 아메리카노 동서식품",
+  "seller_tags_updated_at": "2026-09-08T10:16:40.634589",
+  "sellerTags": [
+    "카누미니",
+    "동서카누",
+    "마일드로스트",
+    "카누190개",
+    "스틱커피"
+  ],
+  "search_fields_updated_at": "2026-09-08T13:05:51.072216",
+  "seller_tag_count": 5,
+  "category_attribute_count": 1,
+  "detail_updated_at": "2026-09-16T13:09:47.513706",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:21.018885+00:00"
+}

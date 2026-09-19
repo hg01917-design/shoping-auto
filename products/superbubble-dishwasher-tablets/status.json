@@ -1,0 +1,30 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:12:25.939120",
+  "productNo": 13750756671,
+  "originProductNo": 13690039967,
+  "salePrice": 22600,
+  "registered_at": "2026-09-08T01:39:30.156629",
+  "title_updated_at": "2026-09-08T10:15:46.543352",
+  "title_updated_from": "식기세척기 타블렛세제 130개 애플향 슈가버블",
+  "title_updated_to": "식기세척세제 올인원 타블렛 130개 애플향 슈가버블",
+  "seller_tags_updated_at": "2026-09-08T10:16:59.340603",
+  "sellerTags": [
+    "식기세척세제",
+    "올인원세제",
+    "타블렛세제",
+    "캡슐세제"
+  ],
+  "detail_updated_at": "2026-09-16T13:12:25.939105",
+  "search_fields_updated_at": "2026-09-16T09:49:18.950659",
+  "seller_tag_count": 4,
+  "category_attribute_count": 0,
+  "images_refreshed_at": "2026-09-16T09:49:21.090529",
+  "detail_image_count": 2,
+  "leafCategoryId": "50002498",
+  "customerDeliveryFee": 4900,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:41.770883+00:00"
+}

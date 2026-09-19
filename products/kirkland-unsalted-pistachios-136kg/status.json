@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711236800,
+  "originProductNo": 13650904101,
+  "salePrice": 36000,
+  "registered_at": "2026-08-09T05:03:16.433315",
+  "updated_at": "2026-09-16T13:11:17.258873",
+  "images_refreshed_at": "2026-08-09T12:56:44.129998",
+  "detail_updated_at": "2026-09-16T13:11:17.258852",
+  "detail_image_count": 2,
+  "title_updated_at": "2026-08-09T12:22:13.529965",
+  "title_updated_from": "커클랜드 시그니처 무염 피스타치오 1.36kg",
+  "title_updated_to": "무염 피스타치오 대용량 커클랜드 시그니처 1.36kg",
+  "images_reprocessed_at": "2026-09-16T13:05:22.734165",
+  "search_fields_updated_at": "2026-09-08T13:07:10.685343",
+  "seller_tag_count": 5,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:21.748160+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711373561,
+  "originProductNo": 13651040837,
+  "salePrice": 23000,
+  "registered_at": "2026-08-09T06:01:41.909619",
+  "updated_at": "2026-09-16T13:10:38.530424",
+  "images_refreshed_at": "2026-08-09T12:55:40.219467",
+  "detail_updated_at": "2026-09-16T13:10:38.530406",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:21:45.837809",
+  "title_updated_from": "대형생수 커클랜드 시그니춰 무라벨 먹는샘물 2L x 6 x 6팩",
+  "title_updated_to": "무라벨 대형 생수 커클랜드 시그니처 2L 36병",
+  "images_reprocessed_at": "2026-09-16T13:05:20.193456",
+  "search_fields_updated_at": "2026-09-08T13:06:48.844402",
+  "seller_tag_count": 4,
+  "category_attribute_count": 2,
+  "customerDeliveryFee": 6000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:05.533728+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:09:43.804764",
+  "productNo": 13739171935,
+  "originProductNo": 13678564861,
+  "salePrice": 45300,
+  "registered_at": "2026-08-31T02:11:02.799913",
+  "search_fields_updated_at": "2026-09-08T13:05:24.188541",
+  "seller_tag_count": 7,
+  "category_attribute_count": 1,
+  "title_updated_at": "2026-09-03T10:05:09.881117",
+  "title_updated_from": "고양이차오츄르 이나바 스틱간식 대용량 14g 90개입",
+  "title_updated_to": "이나바 챠오 츄르 14g 90개 고양이 스틱간식",
+  "detail_updated_at": "2026-09-16T13:09:43.804756",
+  "images_reprocessed_at": "2026-09-16T13:05:16.201125",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:19.579628+00:00"
+}

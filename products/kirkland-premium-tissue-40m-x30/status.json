@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:10:57.993271",
+  "productNo": 13711130126,
+  "originProductNo": 13650797428,
+  "salePrice": 28100,
+  "registered_at": "2026-08-09T04:19:42.356329",
+  "images_refreshed_at": "2026-08-09T12:56:09.174011",
+  "detail_updated_at": "2026-09-16T13:10:57.993259",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:21:58.402909",
+  "title_updated_from": "커클랜드화장지 커클랜드 시그니춰 프리미엄 3겹 화장지 40m x 30롤",
+  "title_updated_to": "3겹 롤화장지 커클랜드 시그니처 40m 30롤",
+  "images_reprocessed_at": "2026-09-16T13:05:21.556185",
+  "search_fields_updated_at": "2026-09-08T13:07:01.718747",
+  "seller_tag_count": 5,
+  "category_attribute_count": 2,
+  "customerDeliveryFee": 6000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:13.823145+00:00"
+}

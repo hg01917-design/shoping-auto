@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-08-09T07:18:25+09:00",
+  "latest_bests_checked_at": "2026-08-09T07:17:44+09:00",
+  "scope": "부산코코상회 공개 베스트 20개와 코스트코 코리아 공식몰 현재 판매 상품의 동일 규격 대조",
+  "pricing_rule": "동일 브랜드·규격·구성이 현재 코스트코 코리아 공식몰에서 확인되는 경우에만 그 가격을 매입원가로 사용한다.",
+  "results": [
+    {"rank": 1, "product_no": "1035", "name": "커클랜드 그릭요거트 907g x 2", "smartstore": "registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 규격 미확인"},
+    {"rank": 2, "product_no": "503", "name": "미국산 냉동 찜본갈비 2.5kg", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 상품은 2.5kg x 2팩으로 원본 2.5kg 단품과 구성 불일치"},
+    {"rank": 3, "product_no": "112", "name": "스타벅스 까페 베로나 원두커피 1.13kg", "smartstore": "registered", "costco_same_sku": true, "costco_price": 46990},
+    {"rank": 4, "product_no": "775", "name": "사푸토 치즈헤드 스트링치즈 1.36kg", "smartstore": "registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 규격 미확인"},
+    {"rank": 5, "product_no": "515", "name": "네덜란드산 냉동삼겹 g당 단가제", "smartstore": "not_registered", "costco_same_sku": false, "reason": "원본이 중량 가변 상품이며 공식몰 현재 동일 규격·중량 가격 미확인"},
+    {"rank": 6, "product_no": "2380", "name": "비비고 썰은배추김치 3kg x 4", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 구성 미확인"},
+    {"rank": 7, "product_no": "536", "name": "동물복지두마리 통닭 2.4kg", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 규격 미확인"},
+    {"rank": 8, "product_no": "638", "name": "포카리스웨트 340ml x 20", "smartstore": "registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 구성 미확인"},
+    {"rank": 9, "product_no": "753", "name": "스타벅스 브렉퍼스트 블렌드 1.13kg", "smartstore": "registered", "costco_same_sku": true, "costco_price": 46990},
+    {"rank": 10, "product_no": "58", "name": "커클랜드 무염 믹스넛 1.13kg", "smartstore": "registered", "costco_same_sku": true, "costco_price": 31490},
+    {"rank": 11, "product_no": "606", "name": "미이랑 국내산 서리태 1.8kg", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 규격 미확인"},
+    {"rank": 12, "product_no": "728", "name": "마티넬리 사과주스 296ml x 24", "smartstore": "registered", "costco_same_sku": true, "costco_price": 48990},
+    {"rank": 13, "product_no": "649", "name": "마다마 올리브 트리오 1.21kg", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 규격 미확인"},
+    {"rank": 14, "product_no": "36", "name": "알라 하바티 슬라이스 907g", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 규격 미확인"},
+    {"rank": 15, "product_no": "516", "name": "미국 돈육 앞다리·목심 g당 단가제", "smartstore": "not_registered", "costco_same_sku": false, "reason": "원본이 중량 가변 상품이며 공식몰 현재 동일 규격·중량 가격 미확인"},
+    {"rank": 16, "product_no": "17", "name": "하겐다즈 하프갤런 바닐라 1.89L", "smartstore": "registered", "costco_same_sku": true, "costco_price": 31990},
+    {"rank": 17, "product_no": "102", "name": "다용도 타프 3.6m x 4.8m 2pk", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 규격 미확인"},
+    {"rank": 18, "product_no": "81", "name": "페리에 레몬·라임 200ml", "smartstore": "not_registered", "costco_same_sku": false, "reason": "원본에 수량이 명확히 표기되지 않았고 공식몰 현재 동일 구성 미확인"},
+    {"rank": 19, "product_no": "159", "name": "커클랜드 베이글 6개 x 2", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 구성 미확인"},
+    {"rank": 20, "product_no": "35", "name": "아폴로 과일치즈 200g x 3", "smartstore": "not_registered", "costco_same_sku": false, "reason": "공식몰 현재 검색에서 동일 구성 미확인"}
+  ]
+}

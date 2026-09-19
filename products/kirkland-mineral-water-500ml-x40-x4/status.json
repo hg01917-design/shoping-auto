@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711378044,
+  "originProductNo": 13651045328,
+  "salePrice": 42100,
+  "registered_at": "2026-08-09T06:03:28.926551",
+  "updated_at": "2026-09-16T13:10:40.311685",
+  "images_refreshed_at": "2026-08-09T12:55:43.122129",
+  "detail_updated_at": "2026-09-16T13:10:40.311672",
+  "detail_image_count": 2,
+  "title_updated_at": "2026-08-09T12:21:47.111642",
+  "title_updated_from": "무라벨생수 커클랜드 시그니춰 먹는샘물 500ml x 40 x 4팩",
+  "title_updated_to": "무라벨 생수 커클랜드 시그니처 500ml 160병",
+  "images_reprocessed_at": "2026-09-16T13:05:20.207713",
+  "search_fields_updated_at": "2026-09-08T13:06:50.603025",
+  "seller_tag_count": 4,
+  "category_attribute_count": 2,
+  "customerDeliveryFee": 6000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:29:06.297301+00:00"
+}

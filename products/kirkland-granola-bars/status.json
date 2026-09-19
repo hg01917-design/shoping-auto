@@ -1,0 +1,21 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:10:20.864889",
+  "reason": "신규상품 원본 우선 기준으로 재처리",
+  "productNo": 13740114800,
+  "originProductNo": 13679494572,
+  "salePrice": 20200,
+  "registered_at": "2026-09-01T01:44:22.015829",
+  "detail_updated_at": "2026-09-16T13:10:20.864883",
+  "detail_image_count": 4,
+  "leafCategoryId": "50022779",
+  "customerDeliveryFee": 7900,
+  "search_fields_updated_at": "2026-09-07T15:06:28.514970",
+  "seller_tag_count": 3,
+  "category_attribute_count": 1,
+  "images_reprocessed_at": "2026-09-16T13:05:18.619796",
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:47.344913+00:00"
+}

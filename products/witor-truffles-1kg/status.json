@@ -1,0 +1,14 @@
+{
+  "status": "registered",
+  "productNo": 13750728717,
+  "originProductNo": 13690012161,
+  "salePrice": 29700,
+  "registered_at": "2026-09-08T01:17:17.274216",
+  "updated_at": "2026-09-16T13:12:43.565602",
+  "detail_updated_at": "2026-09-16T13:12:43.565589",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:48.768502+00:00"
+}

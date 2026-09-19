@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "updated_at": "2026-09-16T13:12:34.823638",
+  "productNo": 13711560070,
+  "originProductNo": 13651227106,
+  "salePrice": 23300,
+  "registered_at": "2026-08-09T07:22:44.985514",
+  "images_refreshed_at": "2026-08-09T12:57:38.744039",
+  "detail_updated_at": "2026-09-16T13:12:34.823614",
+  "detail_image_count": 6,
+  "title_updated_at": "2026-09-03T10:06:18.579130",
+  "title_updated_from": "호주 프로폴리스사탕 트루블루 800g",
+  "title_updated_to": "트루블루 프로폴리스캔디 호주 800g",
+  "images_reprocessed_at": "2026-09-16T13:05:32.341349",
+  "search_fields_updated_at": "2026-08-09T15:46:12.936982",
+  "seller_tag_count": 4,
+  "category_attribute_count": 0,
+  "customerDeliveryFee": 6000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:45.422611+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "registered",
+  "productNo": 13739957326,
+  "originProductNo": 13679338840,
+  "salePrice": 16700,
+  "registered_at": "2026-08-31T22:30:48.769497",
+  "updated_at": "2026-09-16T13:12:22.434506",
+  "search_fields_updated_at": "2026-09-08T13:08:06.302072",
+  "seller_tag_count": 2,
+  "category_attribute_count": 1,
+  "detail_updated_at": "2026-09-16T13:12:22.434494",
+  "title_updated_at": "2026-09-09T10:58:13.849550",
+  "title_updated_from": "단화양말 스튜디오 삭스탑 여성 노쇼 덧신 7족 23~25cm",
+  "title_updated_to": "단화양말 스튜디오 삭스탑 여성 노쇼 덧신 7족 23~25cm",
+  "images_reprocessed_at": "2026-09-16T13:05:30.333280",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:40.322105+00:00"
+}

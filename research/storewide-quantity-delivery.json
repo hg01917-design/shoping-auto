@@ -1,0 +1,202 @@
+{
+  "checkedAt": "2026-09-16T05:41:10.858622+00:00",
+  "dryRun": false,
+  "projectCalculatedOriginsExcluded": true,
+  "results": [
+    {
+      "originProductNo": "11084279585",
+      "name": "옛날 시골 파리채 레트로 모기채 랜덤색상",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084279505",
+      "name": "안테나 효자손 길이조절 등긁개",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084279421",
+      "name": "휴대용 이중잠금 도어락 방문 문 걸쇠",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084279320",
+      "name": "세제 일체형 운동화솔 다용도 세탁솔",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084254173",
+      "name": "새틴 조리개 포장 파우치",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084249498",
+      "name": "바람개비 머리핀 집게 헤어핀 1P 랜덤발송 축제 행사",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084249430",
+      "updated": false,
+      "reason": "수정 실패 HTTP 400: {\"code\":\"BAD_REQUEST\",\"message\":\"입력한 데이터가 유효하지 않습니다.\",\"invalidInputs\":[{\"name\":\"originProduct.detailAttribute.seoInfo.sellerTags\",\"type\":\"Restricted.sellerTags\",\"message\":\"태그 항목에 등록불가인 단어(워터밤)가 포함되어 있습니다.\"}],\"timestamp\":\"2026-09-16T14:40:40.101+09:00\"}"
+    },
+    {
+      "originProductNo": "11084246203",
+      "name": "생일안경 하트 선글라스 사진잘나오는 생일파티 안경 행사 이벤트",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084243298",
+      "name": "핑크 공주 생일축하 머리띠 생일 파티",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084243235",
+      "name": "남자 여자 큐빅 보석넥타이 셀프웨딩 행사 파티 드레스",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226916",
+      "name": "데일리 미니 도트 왕리본 자동 헤어핀",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226819",
+      "name": "블랙 미니 리본 옆머리 집게핀 4P세트",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226759",
+      "name": "하트링 가죽 초커 목걸이 블랙 핑크 가터링 체인 허벅지",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226674",
+      "name": "스트라이프 캉캉 여성 원피스형 앞치마 신혼선물 에이프런",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226596",
+      "name": "비니 긴머리 웨이브 탈색 항암모자 브릿지 일체형 가발 위그",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226491",
+      "name": "파티 행사 고양이귀 방울 머리띠 헤어소품",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226399",
+      "name": "여성 래더 버클 초커목걸이 팔찌",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226334",
+      "name": "여자 자동넥타이 얇은 넥타이 레드체크 밴딩조절 학예회 졸업 행사 유니폼 교복",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226271",
+      "name": "셀프 헤나 도안 판박이 대형 문신 바디 타투 스티커 리어플라워 여름 휴가",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    },
+    {
+      "originProductNo": "11084226135",
+      "name": "블랙 크로스 나비 목장식 파티 코스튬 졸업식 선물",
+      "baseFee": 3000,
+      "oldDeliveryFeeType": "FREE",
+      "oldRepeatQuantity": null,
+      "oldDeliveryBundleGroupUsable": false,
+      "updated": true,
+      "freeDeliveryConvertedToMinimumFee": true
+    }
+  ]
+}

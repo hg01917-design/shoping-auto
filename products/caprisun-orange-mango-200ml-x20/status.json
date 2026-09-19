@@ -1,0 +1,20 @@
+{
+  "status": "registered",
+  "productNo": 13739214989,
+  "originProductNo": 13678607621,
+  "salePrice": 15500,
+  "registered_at": "2026-08-31T03:50:53.763955",
+  "updated_at": "2026-09-16T13:09:06.305138",
+  "search_fields_updated_at": "2026-09-08T13:04:59.361912",
+  "seller_tag_count": 4,
+  "category_attribute_count": 2,
+  "title_updated_at": "2026-09-03T10:05:05.536491",
+  "title_updated_from": "과채음료 카프리썬 오렌지망고 200ml 20입",
+  "title_updated_to": "오렌지망고 카프리썬 200ml 20입 과채음료",
+  "detail_updated_at": "2026-09-16T13:09:06.305125",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:27:46.708243+00:00"
+}

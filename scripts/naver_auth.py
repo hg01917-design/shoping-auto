@@ -12,9 +12,11 @@
 
 import base64
 import json
+import os
 import sys
 import time
 from pathlib import Path
+from typing import Optional
 
 import bcrypt
 import requests
@@ -22,6 +24,10 @@ import requests
 ROOT = Path(__file__).resolve().parent.parent
 CREDENTIALS_PATH = ROOT / "config" / "credentials.json"
 TOKEN_CACHE_PATH = ROOT / "config" / ".token_cache.json"
+ENV_PATHS = (
+    ROOT / ".env",
+    Path(os.environ.get("HOME", "")) / "Downloads" / ".env",
+)
 
 API_BASE = "https://api.commerce.naver.com/external"
 TOKEN_URL = f"{API_BASE}/v1/oauth2/token"
@@ -30,16 +36,41 @@ TOKEN_URL = f"{API_BASE}/v1/oauth2/token"
 EXPIRY_MARGIN_SEC = 600
 
 
+def load_dotenv_credentials() -> dict:
+    """프로젝트 .env 또는 사용자가 지정한 Downloads/.env에서 커머스 키만 읽는다."""
+    for path in ENV_PATHS:
+        if not path.exists():
+            continue
+        values = {}
+        for line in path.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            if key.strip() in {"NAVER_CLIENT_ID", "NAVER_CLIENT_SECRET", "NAVER_ACCOUNT_TYPE"}:
+                values[key.strip()] = value.strip().strip('"').strip("'")
+        if values:
+            return {
+                "NAVER_CLIENT_ID": values.get("NAVER_CLIENT_ID", ""),
+                "NAVER_CLIENT_SECRET": values.get("NAVER_CLIENT_SECRET", ""),
+                "account_type": values.get("NAVER_ACCOUNT_TYPE", "SELF"),
+            }
+    return {}
+
+
 def load_credentials() -> dict:
-    if not CREDENTIALS_PATH.exists():
+    creds = {}
+    if CREDENTIALS_PATH.exists():
+        with open(CREDENTIALS_PATH, encoding="utf-8") as f:
+            creds = json.load(f)
+    if not creds:
+        creds = load_dotenv_credentials()
+    if not creds:
         raise FileNotFoundError(
-            f"{CREDENTIALS_PATH} 가 없습니다.\n"
-            "config/credentials.example.json 을 config/credentials.json 으로 복사한 뒤 "
+            f"{CREDENTIALS_PATH} 또는 .env의 NAVER_CLIENT_ID/NAVER_CLIENT_SECRET 값이 없습니다.\n"
             "네이버 커머스API센터(https://apicenter.commerce.naver.com)에서 발급받은 "
-            "애플리케이션 ID/시크릿을 채워 넣으세요. (README.md 참고)"
+            "애플리케이션 ID/시크릿을 설정하세요. (README.md 참고)"
         )
-    with open(CREDENTIALS_PATH, encoding="utf-8") as f:
-        creds = json.load(f)
     for key in ("NAVER_CLIENT_ID", "NAVER_CLIENT_SECRET"):
         if not creds.get(key) or creds[key].startswith("여기에"):
             raise ValueError(f"config/credentials.json 의 {key} 값이 비어 있습니다.")
@@ -52,7 +83,7 @@ def make_signature(client_id: str, client_secret: str, timestamp_ms: int) -> str
     return base64.b64encode(hashed).decode("utf-8")
 
 
-def _load_cached_token() -> str | None:
+def _load_cached_token() -> Optional[str]:
     if not TOKEN_CACHE_PATH.exists():
         return None
     try:
@@ -112,7 +143,7 @@ def get_access_token(force_refresh: bool = False) -> str:
     return data["access_token"]
 
 
-def auth_headers(token: str | None = None) -> dict:
+def auth_headers(token: Optional[str] = None) -> dict:
     return {"Authorization": f"Bearer {token or get_access_token()}"}
 
 

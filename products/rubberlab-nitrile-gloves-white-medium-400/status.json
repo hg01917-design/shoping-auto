@@ -1,0 +1,29 @@
+{
+  "status": "registered",
+  "productNo": 13739846090,
+  "originProductNo": 13679229258,
+  "salePrice": 36000,
+  "registered_at": "2026-08-31T20:21:47.790854",
+  "updated_at": "2026-09-16T13:12:05.078764",
+  "seller_tags_updated_at": "2026-08-31T20:27:54.537214",
+  "sellerTags": [
+    "국산니트릴장갑",
+    "청소용장갑",
+    "식품용장갑",
+    "조리용장갑"
+  ],
+  "search_fields_updated_at": "2026-09-01T11:16:50.079059",
+  "seller_tag_count": 4,
+  "category_attribute_count": 0,
+  "detail_updated_at": "2026-09-16T13:12:05.078747",
+  "title_updated_at": "2026-09-09T11:09:36.537967",
+  "title_updated_from": "국산 니트릴장갑 러버랩 청소용 식품용 화이트 중형 400매",
+  "title_updated_to": "국산 니트릴장갑 러버랩 청소용 식품용 화이트 중형 400매",
+  "publicProductUrl": "https://smartstore.naver.com/main/products/13739846090",
+  "images_reprocessed_at": "2026-09-16T13:05:28.932386",
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:33.077130+00:00"
+}

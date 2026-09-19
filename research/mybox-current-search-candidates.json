@@ -1,0 +1,204 @@
+{
+  "generated_at": "2026-08-31T04:13:53.081255+09:00",
+  "scope_prefix": "700 커피 및 음료",
+  "target_count": 28,
+  "results": [
+    {
+      "id": 127,
+      "source_folder": "700 커피 및 음료/737 스타벅스 프렌치로스트홀빈커피",
+      "query": "스타벅스 프렌치로스트홀빈커피",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 128,
+      "source_folder": "700 커피 및 음료/736 풀무원 그릭요거트",
+      "query": "풀무원 그릭요거트",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 129,
+      "source_folder": "700 커피 및 음료/735 프로피카나 오렌지쥬스",
+      "query": "프로피카나 오렌지쥬스",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 130,
+      "source_folder": "700 커피 및 음료/734 매일 바이오드링킹",
+      "query": "매일 바이오드링킹",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 131,
+      "source_folder": "700 커피 및 음료/733 아몬드음료",
+      "query": "아몬드음료",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 133,
+      "source_folder": "700 커피 및 음료/731 스타벅스  인스턴트커피",
+      "query": "스타벅스 인스턴트커피",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 134,
+      "source_folder": "700 커피 및 음료/730 패션후르츠",
+      "query": "패션후르츠",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 137,
+      "source_folder": "700 커피 및 음료/727 스탁벅스 스프링블랜드",
+      "query": "스탁벅스 스프링블랜드",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 138,
+      "source_folder": "700 커피 및 음료/727 립톤 아이스티로우슈거",
+      "query": "립톤 아이스티로우슈거",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 139,
+      "source_folder": "700 커피 및 음료/726 아이스티 복숭아",
+      "query": "아이스티 복숭아",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 140,
+      "source_folder": "700 커피 및 음료/725 스타벅스 콜드블루",
+      "query": "스타벅스 콜드블루",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 141,
+      "source_folder": "700 커피 및 음료/724 솔리몬 레몬",
+      "query": "솔리몬 레몬",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 142,
+      "source_folder": "700 커피 및 음료/723 스타벅스 콜드블루",
+      "query": "스타벅스 콜드블루",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 143,
+      "source_folder": "700 커피 및 음료/722 카누",
+      "query": "카누",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 144,
+      "source_folder": "700 커피 및 음료/721 맥심 모카골드",
+      "query": "맥심 모카골드",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 145,
+      "source_folder": "700 커피 및 음료/719 스타벅스 스프링 블랜드",
+      "query": "스타벅스 스프링 블랜드",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 146,
+      "source_folder": "700 커피 및 음료/718 스타벅스 캡슐",
+      "query": "스타벅스 캡슐",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 149,
+      "source_folder": "700 커피 및 음료/715 콤부차",
+      "query": "콤부차",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 150,
+      "source_folder": "700 커피 및 음료/714 핑크 레모네이드",
+      "query": "핑크 레모네이드",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 151,
+      "source_folder": "700 커피 및 음료/713 공차 클래식 밀크티",
+      "query": "공차 클래식 밀크티",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 152,
+      "source_folder": "700 커피 및 음료/712 프렌치까페 믹스",
+      "query": "프렌치까페 믹스",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 156,
+      "source_folder": "700 커피 및 음료/708 스타벅스 비아 파이크플레이스",
+      "query": "스타벅스 비아 파이크플레이스",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 159,
+      "source_folder": "700 커피 및 음료/705 맥심슈프림골드",
+      "query": "맥심슈프림골드",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 160,
+      "source_folder": "700 커피 및 음료/704 맥심 화이트골드믹스",
+      "query": "맥심 화이트골드믹스",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 161,
+      "source_folder": "700 커피 및 음료/703 룰리 스페셜드립커피",
+      "query": "룰리 스페셜드립커피",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 162,
+      "source_folder": "700 커피 및 음료/702 던킨시그니처커피",
+      "query": "던킨시그니처커피",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 163,
+      "source_folder": "700 커피 및 음료/701 포카리 시럽",
+      "query": "포카리 시럽",
+      "http_status": 200,
+      "candidates": []
+    },
+    {
+      "id": 164,
+      "source_folder": "700 커피 및 음료/700 던킨 스틱커피",
+      "query": "던킨 스틱커피",
+      "http_status": 200,
+      "candidates": []
+    }
+  ],
+  "note": "후보 링크는 원본 라벨의 브랜드·맛·용량·입수와 대조한 뒤에만 현재가 확인·등록에 사용할 수 있습니다."
+}

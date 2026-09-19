@@ -1,0 +1,20 @@
+{
+  "status": "deleted",
+  "updated_at": "2026-08-20T12:31:15.435Z",
+  "deleted_at": "2026-08-20T12:31:15.435Z",
+  "deletion_reason": "의약외품 판매 제외",
+  "productNo": 13711081649,
+  "originProductNo": 13650748970,
+  "salePrice": 28700,
+  "registered_at": "2026-08-09T04:00:52.898274",
+  "images_refreshed_at": "2026-08-09T12:57:13.766838",
+  "detail_updated_at": "2026-08-09T13:43:03.296335",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:22:25.779670",
+  "title_updated_from": "시린이센소다인 센소다인 멀티케어 치약 100g x 5개",
+  "title_updated_to": "멀티케어 시린이치약 센소다인 100g 5개",
+  "images_reprocessed_at": "2026-08-09T12:54:02.948763",
+  "search_fields_updated_at": "2026-08-09T15:45:41.864744",
+  "seller_tag_count": 5,
+  "category_attribute_count": 0
+}

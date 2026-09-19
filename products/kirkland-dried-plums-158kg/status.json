@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711279574,
+  "originProductNo": 13650946877,
+  "salePrice": 19100,
+  "registered_at": "2026-08-09T05:21:39.392650",
+  "updated_at": "2026-09-16T13:10:12.119056",
+  "images_refreshed_at": "2026-08-09T12:55:04.759604",
+  "detail_updated_at": "2026-09-16T13:10:12.119040",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-09-01T11:18:41.306230",
+  "title_updated_from": "대용량 건자두 커클랜드 시그니처 1.58kg",
+  "title_updated_to": "건자두 1.58kg 커클랜드 시그니처 대용량",
+  "images_reprocessed_at": "2026-09-16T13:05:18.262291",
+  "search_fields_updated_at": "2026-09-08T13:06:14.776142",
+  "seller_tag_count": 5,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:43.368680+00:00"
+}

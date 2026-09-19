@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711159546,
+  "originProductNo": 13650826847,
+  "salePrice": 23900,
+  "registered_at": "2026-08-09T04:31:24.344474",
+  "updated_at": "2026-09-16T13:10:10.338577",
+  "images_refreshed_at": "2026-08-09T12:55:01.621150",
+  "detail_updated_at": "2026-09-16T13:10:10.338550",
+  "detail_image_count": 1,
+  "title_updated_at": "2026-08-09T12:21:28.978209",
+  "title_updated_from": "블루베리파는곳 커클랜드 시그니춰 건블루베리 567g",
+  "title_updated_to": "건블루베리 간식 커클랜드 시그니처 567g",
+  "images_reprocessed_at": "2026-09-16T13:05:18.236345",
+  "search_fields_updated_at": "2026-09-08T13:06:12.721443",
+  "seller_tag_count": 4,
+  "category_attribute_count": 1,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:42.533927+00:00"
+}

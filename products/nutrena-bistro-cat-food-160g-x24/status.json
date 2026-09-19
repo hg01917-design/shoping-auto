@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13739166125,
+  "originProductNo": 13678559107,
+  "salePrice": 26300,
+  "registered_at": "2026-08-31T01:58:59.833063",
+  "updated_at": "2026-09-16T13:11:47.729500",
+  "images_refreshed_at": "2026-08-31T20:05:56.920230",
+  "detail_updated_at": "2026-09-16T13:11:47.729480",
+  "detail_image_count": 3,
+  "customerDeliveryFee": 3000,
+  "search_fields_updated_at": "2026-09-08T13:07:48.307057",
+  "seller_tag_count": 6,
+  "category_attribute_count": 3,
+  "title_updated_at": "2026-09-01T11:18:50.040127",
+  "title_updated_from": "대용량 고양이습식사료 뉴트리나 비스트로 160g 24캔",
+  "title_updated_to": "고양이습식사료 160g 24캔 뉴트리나 비스트로 대용량",
+  "images_reprocessed_at": "2026-09-16T13:05:26.227477",
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:10.158694+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13711510702,
+  "originProductNo": 13651177838,
+  "salePrice": 40500,
+  "registered_at": "2026-08-09T07:01:19.432333",
+  "updated_at": "2026-09-16T13:10:13.895485",
+  "images_refreshed_at": "2026-08-31T20:05:58.884337",
+  "detail_updated_at": "2026-09-16T13:10:13.895474",
+  "detail_image_count": 3,
+  "title_updated_at": "2026-08-09T12:21:31.745485",
+  "title_updated_from": "에스프레소용원두 커클랜드 시그니춰 에스프레소 블랜드 1.13kg",
+  "title_updated_to": "다크로스팅 에스프레소 원두 커클랜드 시그니처 1.13kg",
+  "images_reprocessed_at": "2026-09-16T13:05:18.279763",
+  "search_fields_updated_at": "2026-09-08T13:06:16.709317",
+  "seller_tag_count": 3,
+  "category_attribute_count": 2,
+  "customerDeliveryFee": 3000,
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:28:44.070968+00:00"
+}

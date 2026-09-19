@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13739855504,
+  "originProductNo": 13679238509,
+  "salePrice": 16200,
+  "registered_at": "2026-08-31T20:33:47.417311",
+  "updated_at": "2026-09-16T13:11:45.872505",
+  "search_fields_updated_at": "2026-09-01T11:16:25.652098",
+  "seller_tag_count": 2,
+  "category_attribute_count": 0,
+  "detail_updated_at": "2026-09-16T13:11:45.872498",
+  "detail_image_count": 3,
+  "leafCategoryId": "50022719",
+  "customerDeliveryFee": 4100,
+  "title_updated_at": "2026-09-09T10:58:12.087804",
+  "title_updated_from": "간식누룽지 대용량 농심 누룽지팝 달콤한맛 142g 7봉",
+  "title_updated_to": "간식누룽지 대용량 농심 누룽지팝 달콤한맛 142g 7봉",
+  "images_reprocessed_at": "2026-09-16T13:05:26.001927",
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:30:09.363553+00:00"
+}

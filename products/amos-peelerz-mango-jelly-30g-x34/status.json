@@ -1,0 +1,23 @@
+{
+  "status": "registered",
+  "productNo": 13739968410,
+  "originProductNo": 13679349739,
+  "salePrice": 16600,
+  "registered_at": "2026-08-31T22:43:42.545405",
+  "updated_at": "2026-09-16T13:08:52.249583",
+  "search_fields_updated_at": "2026-09-08T13:04:54.008398",
+  "seller_tag_count": 2,
+  "category_attribute_count": 1,
+  "detail_updated_at": "2026-09-16T13:08:52.249573",
+  "detail_image_count": 3,
+  "leafCategoryId": "50022479",
+  "customerDeliveryFee": 4200,
+  "title_updated_at": "2026-09-09T10:58:09.495643",
+  "title_updated_from": "젤리과자 AMOS 피러즈 망고구미 30g 34개",
+  "title_updated_to": "젤리과자 AMOS 피러즈 망고구미 30g 34개",
+  "images_reprocessed_at": "2026-09-16T13:05:10.241492",
+  "deliveryFeeType": "UNIT_QUANTITY_PAID",
+  "deliveryFeeRepeatQuantity": 1,
+  "deliveryBundleGroupUsable": false,
+  "delivery_updated_at": "2026-09-16T05:27:40.538227+00:00"
+}
